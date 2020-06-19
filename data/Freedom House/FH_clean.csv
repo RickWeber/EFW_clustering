@@ -1,0 +1,2759 @@
+Country,year,political.rights,civil.liberties
+Afghanistan,2003,8,15
+Albania,2003,26,42
+Algeria,2003,11,22
+Andorra,2003,39,57
+Angola,2003,8,22
+Antigua & Barbuda,2003,18,47
+Argentina,2003,24,41
+Armenia,2003,20,34
+Australia,2003,39,57
+Austria,2003,40,58
+Azerbaijan,2003,11,24
+Bahamas,2003,37,57
+Bahrain,2003,13,21
+Bangladesh,2003,21,33
+Barbados,2003,39,59
+Belarus,2003,9,15
+Belgium,2003,39,56
+Belize,2003,37,52
+Benin,2003,27,48
+Bhutan,2003,7,17
+Bolivia,2003,31,43
+Bosnia-Herzegovina,2003,19,31
+Botswana,2003,34,48
+Brazil,2003,32,41
+Brunei,2003,6,25
+Bulgaria,2003,36,50
+Burkina Faso,2003,20,34
+Burundi,2003,9,18
+Cambodia,2003,11,20
+Cameroon,2003,7,15
+Canada,2003,39,57
+Cape Verde,2003,37,52
+Central African Republic,2003,17,23
+Chad,2003,8,18
+Chile,2003,34,53
+China,2003,3,12
+Colombia,2003,23,32
+Comoros,2003,13,27
+Congo (Brazzaville),2003,11,28
+Congo (Kinshasa),2003,6,12
+Costa Rica,2003,38,52
+Cote d’Ivoire,2003,11,15
+Croatia,2003,31,49
+Cuba,2003,3,7
+Cyprus ,2003,39,57
+Czech Republic,2003,37,47
+Denmark,2003,40,59
+Djibouti,2003,18,25
+Dominica,2003,39,55
+Dominican Republic,2003,30,48
+East Timor,2003,29,40
+Ecuador,2003,24,40
+Egypt,2003,7,16
+El Salvador,2003,32,43
+Equatorial Guinea,2003,3,14
+Eritrea,2003,3,12
+Estonia,2003,37,50
+Ethiopia,2003,12,20
+Fiji,2003,22,41
+Finland,2003,40,59
+France,2003,39,56
+Gabon,2003,16,34
+Gambia,2003,20,34
+Georgia,2003,19,32
+Germany,2003,38,56
+Ghana,2003,31,41
+Greece,2003,36,45
+Grenada,2003,36,50
+Guatemala,2003,22,33
+Guinea,2003,11,22
+Guinea-Bissau,2003,21,25
+Guyana,2003,30,45
+Haiti,2003,9,16
+Honduras,2003,27,41
+Hungary,2003,37,52
+Iceland,2003,40,58
+India,2003,31,40
+Indonesia,2003,26,32
+Iran,2003,10,16
+Iraq,2003,-2,1
+Ireland,2003,38,55
+Israel,2003,40,43
+Italy,2003,38,54
+Jamaica,2003,30,43
+Japan,2003,36,52
+Jordan,2003,10,25
+Kazakhstan,2003,8,21
+Kenya,2003,18,30
+Kiribati,2003,37,54
+Kosovo,2003,,
+Kuwait,2003,18,24
+Kyrgyzstan,2003,11,22
+Laos,2003,3,9
+Latvia,2003,36,50
+Lebanon,2003,6,24
+Lesotho,2003,30,41
+Liberia,2003,9,13
+Libya,2003,2,6
+Liechtenstein,2003,40,58
+Lithuania,2003,38,51
+Luxembourg,2003,44,57
+Macedonia,2003,27,37
+Madagascar,2003,24,34
+Malawi,2003,23,32
+Malaysia,2003,17,25
+Maldives,2003,9,22
+Mali,2003,30,43
+Malta,2003,40,59
+Marshall Islands,2003,37,53
+Mauritania,2003,16,25
+Mauritius,2003,36,52
+Mexico,2003,33,44
+Micronesia,2003,36,52
+Moldova,2003,28,32
+Monaco,2003,31,55
+Mongolia,2003,34,48
+Montenegro,2003,,
+Morocco,2003,17,24
+Mozambique,2003,25,34
+Myanmar,2003,2,6
+Namibia,2003,33,43
+Nauru,2003,37,49
+Nepal,2003,21,29
+Netherlands,2003,40,58
+New Zealand,2003,39,58
+Nicaragua,2003,25,42
+Niger,2003,23,29
+Nigeria,2003,19,25
+North Korea,2003,0,0
+Norway,2003,40,60
+Oman,2003,10,17
+Pakistan,2003,11,22
+Palau,2003,37,51
+Panama,2003,36,46
+Papua New Guinea,2003,31,43
+Paraguay,2003,20,39
+Peru,2003,32,43
+Philippines,2003,31,42
+Poland,2003,37,51
+Portugal,2003,40,58
+Qatar,2003,6,15
+Romania,2003,32,46
+Russia,2003,17,25
+Rwanda,2003,4,18
+Samoa,2003,32,45
+San Marino,2003,40,60
+Sao Tome & Principe,2003,36,49
+Saudi Arabia,2003,3,6
+Senegal,2003,31,37
+Serbia & Montenegro,2003,,
+Serbia,2003,,
+Seychelles,2003,26,41
+Sierra Leone,2003,23,34
+Singapore,2003,17,26
+Slovakia,2003,36,47
+Slovenia,2003,38,54
+Solomon Islands,2003,25,43
+Somalia,2003,8,7
+South Africa,2003,36,52
+South Korea,2003,32,51
+South Sudan,2003,,
+Spain,2003,39,53
+Sri Lanka,2003,26,33
+St. Kitts & Nevis,2003,36,51
+St. Lucia,2003,38,50
+St. Vincent & Grenadines,2003,32,54
+Sudan,2003,0,3
+Suriname,2003,36,46
+Swaziland,2003,8,25
+Sweden,2003,40,59
+Switzerland,2003,40,60
+Syria,2003,1,5
+Taiwan,2003,34,52
+Tajikistan,2003,10,18
+Tanzania,2003,22,36
+Thailand,2003,30,42
+Togo,2003,9,24
+Tonga,2003,17,42
+Trinidad & Tobago,2003,29,43
+Tunisia,2003,8,20
+Turkey,2003,24,29
+Turkmenistan,2003,0,4
+Tuvalu,2003,37,55
+Uganda,2003,10,29
+Ukraine,2003,21,31
+United Arab Emirates,2003,7,22
+United Kingdom,2003,40,57
+United States of America,2003,37,55
+Uruguay,2003,36,54
+Uzbekistan,2003,3,9
+Vanuatu,2003,38,45
+Venezuela,2003,26,32
+Vietnam,2003,2,11
+Yemen,2003,10,17
+Yugoslavia,2003,29,48
+Zambia,2003,20,33
+Zimbabwe,2003,6,15
+Afghanistan,2004,9,14
+Albania,2004,26,42
+Algeria,2004,11,22
+Andorra,2004,39,58
+Angola,2004,7,22
+Antigua & Barbuda,2004,19,46
+Argentina,2004,35,46
+Armenia,2004,20,32
+Australia,2004,39,57
+Austria,2004,40,59
+Azerbaijan,2004,11,24
+Bahamas,2004,37,57
+Bahrain,2004,12,21
+Bangladesh,2004,21,33
+Barbados,2004,39,59
+Belarus,2004,7,14
+Belgium,2004,40,59
+Belize,2004,37,51
+Benin,2004,30,49
+Bhutan,2004,6,17
+Bolivia,2004,28,42
+Bosnia-Herzegovina,2004,22,34
+Botswana,2004,34,48
+Brazil,2004,32,42
+Brunei,2004,7,23
+Bulgaria,2004,36,50
+Burkina Faso,2004,19,33
+Burundi,2004,12,17
+Cambodia,2004,9,23
+Cameroon,2004,7,14
+Canada,2004,40,59
+Cape Verde,2004,37,53
+Central African Republic,2004,5,25
+Chad,2004,8,18
+Chile,2004,36,56
+China,2004,3,10
+Colombia,2004,23,34
+Comoros,2004,15,28
+Congo (Brazzaville),2004,12,30
+Congo (Kinshasa),2004,8,13
+Costa Rica,2004,38,52
+Cote d’Ivoire,2004,11,20
+Croatia,2004,31,48
+Cuba,2004,2,7
+Cyprus ,2004,39,57
+Czech Republic,2004,37,52
+Denmark,2004,40,59
+Djibouti,2004,15,24
+Dominica,2004,38,53
+Dominican Republic,2004,27,46
+East Timor,2004,28,39
+Ecuador,2004,27,40
+Egypt,2004,7,16
+El Salvador,2004,30,43
+Equatorial Guinea,2004,3,14
+Eritrea,2004,3,12
+Estonia,2004,37,52
+Ethiopia,2004,12,20
+Fiji,2004,21,41
+Finland,2004,38,60
+France,2004,38,57
+Gabon,2004,13,32
+Gambia,2004,21,33
+Georgia,2004,21,32
+Germany,2004,40,58
+Ghana,2004,33,44
+Greece,2004,36,50
+Grenada,2004,36,50
+Guatemala,2004,21,30
+Guinea,2004,11,25
+Guinea-Bissau,2004,6,28
+Guyana,2004,30,45
+Haiti,2004,9,12
+Honduras,2004,26,40
+Hungary,2004,37,52
+Iceland,2004,40,60
+India,2004,33,41
+Indonesia,2004,25,34
+Iran,2004,10,15
+Iraq,2004,5,18
+Ireland,2004,40,58
+Israel,2004,38,43
+Italy,2004,38,54
+Jamaica,2004,30,43
+Japan,2004,36,52
+Jordan,2004,12,25
+Kazakhstan,2004,8,20
+Kenya,2004,26,39
+Kiribati,2004,37,56
+Kosovo,2004,,
+Kuwait,2004,18,24
+Kyrgyzstan,2004,11,24
+Laos,2004,2,11
+Latvia,2004,36,50
+Lebanon,2004,6,24
+Lesotho,2004,31,41
+Liberia,2004,6,16
+Libya,2004,2,5
+Liechtenstein,2004,40,59
+Lithuania,2004,38,52
+Luxembourg,2004,40,60
+Macedonia,2004,27,38
+Madagascar,2004,25,37
+Malawi,2004,25,32
+Malaysia,2004,17,28
+Maldives,2004,9,23
+Mali,2004,30,45
+Malta,2004,40,59
+Marshall Islands,2004,37,55
+Mauritania,2004,11,24
+Mauritius,2004,36,52
+Mexico,2004,33,44
+Micronesia,2004,36,55
+Moldova,2004,28,32
+Monaco,2004,31,56
+Mongolia,2004,34,49
+Montenegro,2004,,
+Morocco,2004,17,24
+Mozambique,2004,25,34
+Myanmar,2004,0,7
+Namibia,2004,33,43
+Nauru,2004,38,54
+Nepal,2004,17,28
+Netherlands,2004,40,60
+New Zealand,2004,39,57
+Nicaragua,2004,25,37
+Niger,2004,23,33
+Nigeria,2004,19,26
+North Korea,2004,0,0
+Norway,2004,40,60
+Oman,2004,6,17
+Pakistan,2004,11,24
+Palau,2004,37,53
+Panama,2004,36,44
+Papua New Guinea,2004,28,43
+Paraguay,2004,26,38
+Peru,2004,31,42
+Philippines,2004,31,42
+Poland,2004,37,52
+Portugal,2004,40,58
+Qatar,2004,7,15
+Romania,2004,32,47
+Russia,2004,16,25
+Rwanda,2004,10,20
+Samoa,2004,31,47
+San Marino,2004,40,60
+Sao Tome & Principe,2004,33,48
+Saudi Arabia,2004,1,6
+Senegal,2004,34,41
+Serbia & Montenegro,2004,26,47
+Serbia,2004,,
+Seychelles,2004,26,42
+Sierra Leone,2004,23,36
+Singapore,2004,17,29
+Slovakia,2004,36,51
+Slovenia,2004,38,54
+Solomon Islands,2004,25,41
+Somalia,2004,7,7
+South Africa,2004,36,52
+South Korea,2004,33,49
+South Sudan,2004,,
+Spain,2004,38,53
+Sri Lanka,2004,25,37
+St. Kitts & Nevis,2004,36,50
+St. Lucia,2004,37,48
+St. Vincent & Grenadines,2004,31,53
+Sudan,2004,1,7
+Suriname,2004,36,46
+Swaziland,2004,2,19
+Sweden,2004,40,60
+Switzerland,2004,40,60
+Syria,2004,1,6
+Taiwan,2004,34,52
+Tajikistan,2004,10,19
+Tanzania,2004,22,36
+Thailand,2004,30,43
+Togo,2004,8,24
+Tonga,2004,15,41
+Trinidad & Tobago,2004,29,43
+Tunisia,2004,8,19
+Turkey,2004,26,33
+Turkmenistan,2004,0,2
+Tuvalu,2004,37,54
+Uganda,2004,12,30
+Ukraine,2004,20,30
+United Arab Emirates,2004,7,16
+United Kingdom,2004,39,58
+United States of America,2004,37,56
+Uruguay,2004,36,54
+Uzbekistan,2004,3,9
+Vanuatu,2004,34,48
+Venezuela,2004,26,32
+Vietnam,2004,2,12
+Yemen,2004,12,23
+Yugoslavia,2004,,
+Zambia,2004,23,33
+Zimbabwe,2004,6,14
+Afghanistan,2005,13,14
+Albania,2005,26,40
+Algeria,2005,10,25
+Andorra,2005,39,58
+Angola,2005,8,22
+Antigua & Barbuda,2005,30,47
+Argentina,2005,35,48
+Armenia,2005,16,28
+Australia,2005,39,57
+Austria,2005,40,59
+Azerbaijan,2005,11,22
+Bahamas,2005,37,57
+Bahrain,2005,12,21
+Bangladesh,2005,22,32
+Barbados,2005,39,59
+Belarus,2005,5,14
+Belgium,2005,39,59
+Belize,2005,37,52
+Benin,2005,30,49
+Bhutan,2005,8,18
+Bolivia,2005,29,43
+Bosnia-Herzegovina,2005,22,37
+Botswana,2005,34,48
+Brazil,2005,32,43
+Brunei,2005,7,24
+Bulgaria,2005,36,51
+Burkina Faso,2005,17,34
+Burundi,2005,12,17
+Cambodia,2005,11,23
+Cameroon,2005,11,16
+Canada,2005,39,59
+Cape Verde,2005,37,53
+Central African Republic,2005,9,24
+Chad,2005,8,18
+Chile,2005,38,56
+China,2005,2,15
+Colombia,2005,23,34
+Comoros,2005,18,29
+Congo (Brazzaville),2005,12,30
+Congo (Kinshasa),2005,8,13
+Costa Rica,2005,38,54
+Cote d’Ivoire,2005,6,15
+Croatia,2005,34,48
+Cuba,2005,1,7
+Cyprus ,2005,39,57
+Czech Republic,2005,37,56
+Denmark,2005,40,59
+Djibouti,2005,15,24
+Dominica,2005,38,53
+Dominican Republic,2005,32,46
+East Timor,2005,27,37
+Ecuador,2005,27,41
+Egypt,2005,7,18
+El Salvador,2005,30,43
+Equatorial Guinea,2005,2,13
+Eritrea,2005,3,11
+Estonia,2005,38,55
+Ethiopia,2005,12,21
+Fiji,2005,20,41
+Finland,2005,40,60
+France,2005,38,57
+Gabon,2005,13,31
+Gambia,2005,21,34
+Georgia,2005,24,34
+Germany,2005,40,59
+Ghana,2005,35,47
+Greece,2005,37,52
+Grenada,2005,36,50
+Guatemala,2005,22,30
+Guinea,2005,9,22
+Guinea-Bissau,2005,20,30
+Guyana,2005,31,44
+Haiti,2005,5,14
+Honduras,2005,26,40
+Hungary,2005,37,55
+Iceland,2005,40,60
+India,2005,34,42
+Indonesia,2005,29,34
+Iran,2005,10,15
+Iraq,2005,5,19
+Ireland,2005,40,58
+Israel,2005,38,43
+Italy,2005,38,53
+Jamaica,2005,30,42
+Japan,2005,37,52
+Jordan,2005,12,27
+Kazakhstan,2005,9,22
+Kenya,2005,26,40
+Kiribati,2005,37,56
+Kosovo,2005,,
+Kuwait,2005,18,24
+Kyrgyzstan,2005,10,25
+Laos,2005,1,12
+Latvia,2005,36,51
+Lebanon,2005,8,25
+Lesotho,2005,31,41
+Liberia,2005,12,28
+Libya,2005,1,6
+Liechtenstein,2005,40,59
+Lithuania,2005,35,52
+Luxembourg,2005,40,60
+Macedonia,2005,26,37
+Madagascar,2005,24,37
+Malawi,2005,23,34
+Malaysia,2005,19,30
+Maldives,2005,9,22
+Mali,2005,31,44
+Malta,2005,40,59
+Marshall Islands,2005,37,55
+Mauritania,2005,10,23
+Mauritius,2005,36,53
+Mexico,2005,32,44
+Micronesia,2005,36,56
+Moldova,2005,24,33
+Monaco,2005,31,55
+Mongolia,2005,33,49
+Montenegro,2005,,
+Morocco,2005,17,27
+Mozambique,2005,25,34
+Myanmar,2005,-1,6
+Namibia,2005,32,42
+Nauru,2005,38,55
+Nepal,2005,16,25
+Netherlands,2005,40,59
+New Zealand,2005,39,57
+Nicaragua,2005,25,38
+Niger,2005,27,35
+Nigeria,2005,19,26
+North Korea,2005,0,0
+Norway,2005,40,60
+Oman,2005,10,17
+Pakistan,2005,11,23
+Palau,2005,37,54
+Panama,2005,36,44
+Papua New Guinea,2005,26,38
+Paraguay,2005,25,38
+Peru,2005,32,41
+Philippines,2005,32,42
+Poland,2005,38,54
+Portugal,2005,40,57
+Qatar,2005,8,17
+Romania,2005,28,44
+Russia,2005,10,25
+Rwanda,2005,11,20
+Samoa,2005,32,48
+San Marino,2005,40,60
+Sao Tome & Principe,2005,34,48
+Saudi Arabia,2005,3,5
+Senegal,2005,34,42
+Serbia & Montenegro,2005,29,47
+Serbia,2005,,
+Seychelles,2005,26,42
+Sierra Leone,2005,23,35
+Singapore,2005,17,34
+Slovakia,2005,37,53
+Slovenia,2005,38,53
+Solomon Islands,2005,25,42
+Somalia,2005,7,7
+South Africa,2005,36,52
+South Korea,2005,36,49
+South Sudan,2005,,
+Spain,2005,38,53
+Sri Lanka,2005,25,36
+St. Kitts & Nevis,2005,36,50
+St. Lucia,2005,37,48
+St. Vincent & Grenadines,2005,31,53
+Sudan,2005,0,6
+Suriname,2005,36,47
+Swaziland,2005,1,19
+Sweden,2005,40,60
+Switzerland,2005,40,60
+Syria,2005,1,7
+Taiwan,2005,34,54
+Tajikistan,2005,9,21
+Tanzania,2005,22,36
+Thailand,2005,30,39
+Togo,2005,8,25
+Tonga,2005,15,41
+Trinidad & Tobago,2005,28,43
+Tunisia,2005,8,18
+Turkey,2005,27,38
+Turkmenistan,2005,0,2
+Tuvalu,2005,37,56
+Uganda,2005,13,30
+Ukraine,2005,19,36
+United Arab Emirates,2005,7,15
+United Kingdom,2005,39,58
+United States of America,2005,38,55
+Uruguay,2005,38,55
+Uzbekistan,2005,2,9
+Vanuatu,2005,34,48
+Venezuela,2005,25,34
+Vietnam,2005,2,15
+Yemen,2005,13,22
+Yugoslavia,2005,,
+Zambia,2005,23,34
+Zimbabwe,2005,5,14
+Afghanistan,2006,16,19
+Albania,2006,25,38
+Algeria,2006,11,25
+Andorra,2006,39,57
+Angola,2006,8,21
+Antigua & Barbuda,2006,30,47
+Argentina,2006,34,50
+Armenia,2006,13,28
+Australia,2006,39,57
+Austria,2006,40,58
+Azerbaijan,2006,10,23
+Bahamas,2006,38,58
+Bahrain,2006,14,22
+Bangladesh,2006,22,31
+Barbados,2006,40,59
+Belarus,2006,5,10
+Belgium,2006,39,58
+Belize,2006,36,52
+Benin,2006,30,48
+Bhutan,2006,9,20
+Bolivia,2006,28,43
+Bosnia-Herzegovina,2006,23,39
+Botswana,2006,31,47
+Brazil,2006,32,45
+Brunei,2006,6,23
+Bulgaria,2006,36,51
+Burkina Faso,2006,17,36
+Burundi,2006,25,24
+Cambodia,2006,11,24
+Cameroon,2006,11,16
+Canada,2006,39,59
+Cape Verde,2006,37,53
+Central African Republic,2006,17,27
+Chad,2006,8,18
+Chile,2006,39,57
+China,2006,2,15
+Colombia,2006,24,36
+Comoros,2006,18,30
+Congo (Brazzaville),2006,12,25
+Congo (Kinshasa),2006,8,12
+Costa Rica,2006,38,54
+Cote d’Ivoire,2006,6,15
+Croatia,2006,35,49
+Cuba,2006,1,7
+Cyprus ,2006,38,57
+Czech Republic,2006,37,55
+Denmark,2006,40,58
+Djibouti,2006,12,23
+Dominica,2006,38,54
+Dominican Republic,2006,32,46
+East Timor,2006,29,38
+Ecuador,2006,27,41
+Egypt,2006,8,22
+El Salvador,2006,32,43
+Equatorial Guinea,2006,1,9
+Eritrea,2006,3,11
+Estonia,2006,39,56
+Ethiopia,2006,15,21
+Fiji,2006,20,42
+Finland,2006,40,60
+France,2006,38,55
+Gabon,2006,10,30
+Gambia,2006,17,32
+Georgia,2006,24,37
+Germany,2006,39,58
+Ghana,2006,37,47
+Greece,2006,37,51
+Grenada,2006,37,50
+Guatemala,2006,22,33
+Guinea,2006,9,23
+Guinea-Bissau,2006,25,34
+Guyana,2006,29,41
+Haiti,2006,5,16
+Honduras,2006,26,40
+Hungary,2006,37,56
+Iceland,2006,40,60
+India,2006,34,42
+Indonesia,2006,30,35
+Iran,2006,9,15
+Iraq,2006,9,19
+Ireland,2006,40,58
+Israel,2006,37,46
+Italy,2006,39,53
+Jamaica,2006,31,43
+Japan,2006,37,51
+Jordan,2006,15,27
+Kazakhstan,2006,10,22
+Kenya,2006,26,40
+Kiribati,2006,38,55
+Kosovo,2006,,
+Kuwait,2006,18,25
+Kyrgyzstan,2006,16,31
+Laos,2006,1,12
+Latvia,2006,36,53
+Lebanon,2006,16,30
+Lesotho,2006,31,43
+Liberia,2006,23,33
+Libya,2006,1,6
+Liechtenstein,2006,40,59
+Lithuania,2006,36,54
+Luxembourg,2006,40,60
+Macedonia,2006,25,36
+Madagascar,2006,24,36
+Malawi,2006,23,34
+Malaysia,2006,19,31
+Maldives,2006,9,22
+Mali,2006,30,44
+Malta,2006,39,59
+Marshall Islands,2006,37,55
+Mauritania,2006,11,27
+Mauritius,2006,38,53
+Mexico,2006,35,45
+Micronesia,2006,37,56
+Moldova,2006,24,33
+Monaco,2006,31,56
+Mongolia,2006,34,49
+Montenegro,2006,,
+Morocco,2006,17,26
+Mozambique,2006,25,31
+Myanmar,2006,-1,6
+Namibia,2006,31,46
+Nauru,2006,38,55
+Nepal,2006,9,19
+Netherlands,2006,40,59
+New Zealand,2006,39,57
+Nicaragua,2006,25,38
+Niger,2006,27,35
+Nigeria,2006,21,28
+North Korea,2006,0,0
+Norway,2006,40,60
+Oman,2006,10,18
+Pakistan,2006,11,24
+Palau,2006,37,55
+Panama,2006,36,47
+Papua New Guinea,2006,26,38
+Paraguay,2006,25,38
+Peru,2006,32,42
+Philippines,2006,29,43
+Poland,2006,38,54
+Portugal,2006,40,57
+Qatar,2006,9,18
+Romania,2006,30,45
+Russia,2006,11,24
+Rwanda,2006,11,21
+Samoa,2006,32,49
+San Marino,2006,40,60
+Sao Tome & Principe,2006,33,47
+Saudi Arabia,2006,4,8
+Senegal,2006,33,43
+Serbia & Montenegro,2006,29,47
+Serbia,2006,,
+Seychelles,2006,26,42
+Sierra Leone,2006,23,37
+Singapore,2006,17,33
+Slovakia,2006,37,54
+Slovenia,2006,38,54
+Solomon Islands,2006,24,42
+Somalia,2006,8,7
+South Africa,2006,36,52
+South Korea,2006,36,49
+South Sudan,2006,,
+Spain,2006,38,57
+Sri Lanka,2006,24,35
+St. Kitts & Nevis,2006,38,53
+St. Lucia,2006,38,53
+St. Vincent & Grenadines,2006,32,53
+Sudan,2006,1,6
+Suriname,2006,33,45
+Swaziland,2006,1,20
+Sweden,2006,40,60
+Switzerland,2006,40,59
+Syria,2006,1,7
+Taiwan,2006,36,55
+Tajikistan,2006,9,21
+Tanzania,2006,22,36
+Thailand,2006,29,38
+Togo,2006,7,18
+Tonga,2006,15,42
+Trinidad & Tobago,2006,28,46
+Tunisia,2006,6,18
+Turkey,2006,28,37
+Turkmenistan,2006,0,1
+Tuvalu,2006,37,57
+Uganda,2006,14,31
+Ukraine,2006,27,45
+United Arab Emirates,2006,7,15
+United Kingdom,2006,39,57
+United States of America,2006,37,56
+Uruguay,2006,39,58
+Uzbekistan,2006,0,3
+Vanuatu,2006,32,48
+Venezuela,2006,23,31
+Vietnam,2006,2,17
+Yemen,2006,13,18
+Yugoslavia,2006,,
+Zambia,2006,22,34
+Zimbabwe,2006,5,10
+Afghanistan,2007,17,18
+Albania,2007,26,38
+Algeria,2007,11,25
+Andorra,2007,39,57
+Angola,2007,8,21
+Antigua & Barbuda,2007,30,47
+Argentina,2007,33,48
+Armenia,2007,13,28
+Australia,2007,39,57
+Austria,2007,40,58
+Azerbaijan,2007,10,22
+Bahamas,2007,38,58
+Bahrain,2007,16,20
+Bangladesh,2007,22,31
+Barbados,2007,40,59
+Belarus,2007,4,10
+Belgium,2007,40,58
+Belize,2007,36,51
+Benin,2007,33,49
+Bhutan,2007,10,21
+Bolivia,2007,28,43
+Bosnia-Herzegovina,2007,25,39
+Botswana,2007,31,47
+Brazil,2007,31,45
+Brunei,2007,7,23
+Bulgaria,2007,36,50
+Burkina Faso,2007,17,36
+Burundi,2007,22,23
+Cambodia,2007,11,24
+Cameroon,2007,11,16
+Canada,2007,40,59
+Cape Verde,2007,37,53
+Central African Republic,2007,17,26
+Chad,2007,6,16
+Chile,2007,39,58
+China,2007,2,15
+Colombia,2007,26,36
+Comoros,2007,24,30
+Congo (Brazzaville),2007,11,24
+Congo (Kinshasa),2007,14,12
+Costa Rica,2007,38,53
+Cote d’Ivoire,2007,5,16
+Croatia,2007,35,50
+Cuba,2007,1,6
+Cyprus ,2007,38,57
+Czech Republic,2007,38,57
+Denmark,2007,40,58
+Djibouti,2007,12,23
+Dominica,2007,38,54
+Dominican Republic,2007,33,47
+East Timor,2007,26,33
+Ecuador,2007,28,41
+Egypt,2007,7,20
+El Salvador,2007,33,41
+Equatorial Guinea,2007,1,9
+Eritrea,2007,3,10
+Estonia,2007,39,56
+Ethiopia,2007,14,20
+Fiji,2007,7,31
+Finland,2007,40,60
+France,2007,38,56
+Gabon,2007,10,27
+Gambia,2007,17,31
+Georgia,2007,25,37
+Germany,2007,39,57
+Ghana,2007,37,47
+Greece,2007,37,52
+Grenada,2007,37,49
+Guatemala,2007,24,33
+Guinea,2007,9,23
+Guinea-Bissau,2007,22,33
+Guyana,2007,31,42
+Haiti,2007,20,22
+Honduras,2007,25,37
+Hungary,2007,37,55
+Iceland,2007,40,60
+India,2007,34,42
+Indonesia,2007,30,35
+Iran,2007,10,13
+Iraq,2007,11,11
+Ireland,2007,39,58
+Israel,2007,37,47
+Italy,2007,38,54
+Jamaica,2007,31,43
+Japan,2007,37,51
+Jordan,2007,14,28
+Kazakhstan,2007,10,22
+Kenya,2007,25,39
+Kiribati,2007,36,55
+Kosovo,2007,,
+Kuwait,2007,19,27
+Kyrgyzstan,2007,16,30
+Laos,2007,1,12
+Latvia,2007,36,53
+Lebanon,2007,17,34
+Lesotho,2007,30,43
+Liberia,2007,24,33
+Libya,2007,1,7
+Liechtenstein,2007,40,60
+Lithuania,2007,36,54
+Luxembourg,2007,40,60
+Macedonia,2007,24,36
+Madagascar,2007,23,36
+Malawi,2007,23,35
+Malaysia,2007,19,29
+Maldives,2007,11,23
+Mali,2007,30,44
+Malta,2007,39,59
+Marshall Islands,2007,37,55
+Mauritania,2007,17,29
+Mauritius,2007,37,52
+Mexico,2007,33,43
+Micronesia,2007,37,56
+Moldova,2007,24,33
+Monaco,2007,31,56
+Mongolia,2007,33,49
+Montenegro,2007,24,41
+Morocco,2007,17,28
+Mozambique,2007,25,33
+Myanmar,2007,-2,6
+Namibia,2007,31,46
+Nauru,2007,38,55
+Nepal,2007,17,28
+Netherlands,2007,40,59
+New Zealand,2007,39,57
+Nicaragua,2007,28,39
+Niger,2007,29,35
+Nigeria,2007,21,30
+North Korea,2007,0,1
+Norway,2007,40,60
+Oman,2007,10,18
+Pakistan,2007,11,24
+Palau,2007,37,55
+Panama,2007,36,47
+Papua New Guinea,2007,26,36
+Paraguay,2007,26,37
+Peru,2007,32,41
+Philippines,2007,28,41
+Poland,2007,38,53
+Portugal,2007,40,57
+Qatar,2007,9,18
+Romania,2007,32,49
+Russia,2007,11,23
+Rwanda,2007,10,23
+Samoa,2007,32,49
+San Marino,2007,40,60
+Sao Tome & Principe,2007,33,47
+Saudi Arabia,2007,4,9
+Senegal,2007,33,43
+Serbia & Montenegro,2007,,
+Serbia,2007,29,47
+Seychelles,2007,25,41
+Sierra Leone,2007,23,37
+Singapore,2007,17,32
+Slovakia,2007,37,54
+Slovenia,2007,38,53
+Solomon Islands,2007,23,42
+Somalia,2007,1,3
+South Africa,2007,35,51
+South Korea,2007,36,51
+South Sudan,2007,,
+Spain,2007,39,57
+Sri Lanka,2007,22,32
+St. Kitts & Nevis,2007,38,53
+St. Lucia,2007,38,53
+St. Vincent & Grenadines,2007,34,53
+Sudan,2007,3,7
+Suriname,2007,32,45
+Swaziland,2007,3,20
+Sweden,2007,40,60
+Switzerland,2007,40,59
+Syria,2007,1,8
+Taiwan,2007,34,55
+Tajikistan,2007,8,20
+Tanzania,2007,22,36
+Thailand,2007,4,32
+Togo,2007,8,21
+Tonga,2007,15,40
+Trinidad & Tobago,2007,31,49
+Tunisia,2007,6,18
+Turkey,2007,28,37
+Turkmenistan,2007,0,1
+Tuvalu,2007,37,57
+Uganda,2007,15,31
+Ukraine,2007,28,45
+United Arab Emirates,2007,8,17
+United Kingdom,2007,40,58
+United States of America,2007,38,55
+Uruguay,2007,39,58
+Uzbekistan,2007,0,3
+Vanuatu,2007,32,48
+Venezuela,2007,20,31
+Vietnam,2007,2,19
+Yemen,2007,14,19
+Yugoslavia,2007,,
+Zambia,2007,25,34
+Zimbabwe,2007,4,9
+Afghanistan,2008,17,17
+Albania,2008,26,39
+Algeria,2008,11,25
+Andorra,2008,39,57
+Angola,2008,8,21
+Antigua & Barbuda,2008,30,47
+Argentina,2008,32,48
+Armenia,2008,14,28
+Australia,2008,39,57
+Austria,2008,40,58
+Azerbaijan,2008,10,21
+Bahamas,2008,38,58
+Bahrain,2008,15,22
+Bangladesh,2008,12,28
+Barbados,2008,40,59
+Belarus,2008,3,10
+Belgium,2008,39,58
+Belize,2008,36,51
+Benin,2008,33,49
+Bhutan,2008,11,23
+Bolivia,2008,29,41
+Bosnia-Herzegovina,2008,23,39
+Botswana,2008,31,48
+Brazil,2008,31,45
+Brunei,2008,7,23
+Bulgaria,2008,36,49
+Burkina Faso,2008,17,36
+Burundi,2008,22,23
+Cambodia,2008,11,24
+Cameroon,2008,9,16
+Canada,2008,40,59
+Cape Verde,2008,37,53
+Central African Republic,2008,17,23
+Chad,2008,5,15
+Chile,2008,39,58
+China,2008,2,16
+Colombia,2008,26,35
+Comoros,2008,23,30
+Congo (Brazzaville),2008,8,24
+Congo (Kinshasa),2008,13,12
+Costa Rica,2008,38,53
+Cote d’Ivoire,2008,5,19
+Croatia,2008,35,50
+Cuba,2008,1,6
+Cyprus ,2008,38,57
+Czech Republic,2008,38,57
+Denmark,2008,40,58
+Djibouti,2008,12,22
+Dominica,2008,39,58
+Dominican Republic,2008,33,47
+East Timor,2008,28,34
+Ecuador,2008,27,42
+Egypt,2008,7,18
+El Salvador,2008,33,40
+Equatorial Guinea,2008,1,9
+Eritrea,2008,3,10
+Estonia,2008,38,56
+Ethiopia,2008,13,20
+Fiji,2008,7,32
+Finland,2008,40,60
+France,2008,38,55
+Gabon,2008,10,27
+Gambia,2008,17,31
+Georgia,2008,20,34
+Germany,2008,39,57
+Ghana,2008,37,47
+Greece,2008,37,52
+Grenada,2008,37,51
+Guatemala,2008,24,33
+Guinea,2008,10,23
+Guinea-Bissau,2008,21,30
+Guyana,2008,31,42
+Haiti,2008,22,25
+Honduras,2008,25,36
+Hungary,2008,37,55
+Iceland,2008,40,60
+India,2008,34,42
+Indonesia,2008,30,37
+Iran,2008,10,14
+Iraq,2008,11,12
+Ireland,2008,39,58
+Israel,2008,37,47
+Italy,2008,38,54
+Jamaica,2008,34,43
+Japan,2008,37,51
+Jordan,2008,13,28
+Kazakhstan,2008,8,22
+Kenya,2008,20,38
+Kiribati,2008,36,55
+Kosovo,2008,,
+Kuwait,2008,19,27
+Kyrgyzstan,2008,16,29
+Laos,2008,1,12
+Latvia,2008,35,53
+Lebanon,2008,15,34
+Lesotho,2008,30,41
+Liberia,2008,25,34
+Libya,2008,1,7
+Liechtenstein,2008,40,60
+Lithuania,2008,36,54
+Luxembourg,2008,40,60
+Macedonia,2008,24,36
+Madagascar,2008,22,36
+Malawi,2008,23,34
+Malaysia,2008,19,27
+Maldives,2008,11,25
+Mali,2008,30,42
+Malta,2008,39,58
+Marshall Islands,2008,37,55
+Mauritania,2008,22,30
+Mauritius,2008,38,52
+Mexico,2008,32,41
+Micronesia,2008,37,56
+Moldova,2008,24,33
+Monaco,2008,31,56
+Mongolia,2008,33,49
+Montenegro,2008,24,41
+Morocco,2008,16,28
+Mozambique,2008,25,35
+Myanmar,2008,-2,5
+Namibia,2008,31,46
+Nauru,2008,38,55
+Nepal,2008,17,29
+Netherlands,2008,40,59
+New Zealand,2008,39,57
+Nicaragua,2008,27,37
+Niger,2008,28,32
+Nigeria,2008,18,31
+North Korea,2008,0,2
+Norway,2008,40,60
+Oman,2008,10,18
+Pakistan,2008,8,18
+Palau,2008,37,55
+Panama,2008,36,47
+Papua New Guinea,2008,24,36
+Paraguay,2008,26,36
+Peru,2008,32,41
+Philippines,2008,23,38
+Poland,2008,38,55
+Portugal,2008,40,58
+Qatar,2008,10,18
+Romania,2008,32,49
+Russia,2008,9,23
+Rwanda,2008,11,23
+Samoa,2008,32,49
+San Marino,2008,40,60
+Sao Tome & Principe,2008,33,47
+Saudi Arabia,2008,4,9
+Senegal,2008,30,43
+Serbia & Montenegro,2008,,
+Serbia,2008,29,47
+Seychelles,2008,25,40
+Sierra Leone,2008,26,37
+Singapore,2008,17,32
+Slovakia,2008,37,54
+Slovenia,2008,38,53
+Solomon Islands,2008,21,42
+Somalia,2008,0,3
+South Africa,2008,35,51
+South Korea,2008,36,50
+South Sudan,2008,,
+Spain,2008,39,57
+Sri Lanka,2008,21,31
+St. Kitts & Nevis,2008,39,53
+St. Lucia,2008,39,53
+St. Vincent & Grenadines,2008,35,53
+Sudan,2008,3,7
+Suriname,2008,33,45
+Swaziland,2008,3,20
+Sweden,2008,40,60
+Switzerland,2008,39,58
+Syria,2008,1,8
+Taiwan,2008,34,55
+Tajikistan,2008,9,19
+Tanzania,2008,22,36
+Thailand,2008,8,31
+Togo,2008,14,24
+Tonga,2008,15,40
+Trinidad & Tobago,2008,32,49
+Tunisia,2008,5,18
+Turkey,2008,29,37
+Turkmenistan,2008,0,5
+Tuvalu,2008,37,57
+Uganda,2008,15,30
+Ukraine,2008,29,44
+United Arab Emirates,2008,9,17
+United Kingdom,2008,40,57
+United States of America,2008,38,56
+Uruguay,2008,39,58
+Uzbekistan,2008,0,3
+Vanuatu,2008,32,48
+Venezuela,2008,19,28
+Vietnam,2008,2,19
+Yemen,2008,14,20
+Yugoslavia,2008,,
+Zambia,2008,26,34
+Zimbabwe,2008,5,9
+Afghanistan,2009,16,16
+Albania,2009,26,40
+Algeria,2009,11,25
+Andorra,2009,39,57
+Angola,2009,11,21
+Antigua & Barbuda,2009,30,47
+Argentina,2009,32,48
+Armenia,2009,11,27
+Australia,2009,39,57
+Austria,2009,39,58
+Azerbaijan,2009,8,21
+Bahamas,2009,38,58
+Bahrain,2009,13,21
+Bangladesh,2009,22,30
+Barbados,2009,40,59
+Belarus,2009,4,11
+Belgium,2009,39,58
+Belize,2009,36,51
+Benin,2009,32,48
+Bhutan,2009,19,24
+Bolivia,2009,28,40
+Bosnia-Herzegovina,2009,23,38
+Botswana,2009,30,48
+Brazil,2009,32,45
+Brunei,2009,7,23
+Bulgaria,2009,35,47
+Burkina Faso,2009,17,35
+Burundi,2009,20,23
+Cambodia,2009,11,23
+Cameroon,2009,8,15
+Canada,2009,39,58
+Cape Verde,2009,37,53
+Central African Republic,2009,17,23
+Chad,2009,5,15
+Chile,2009,39,58
+China,2009,2,14
+Colombia,2009,26,34
+Comoros,2009,25,30
+Congo (Brazzaville),2009,9,24
+Congo (Kinshasa),2009,11,11
+Costa Rica,2009,38,53
+Cote d’Ivoire,2009,6,19
+Croatia,2009,35,49
+Cuba,2009,1,8
+Cyprus ,2009,38,57
+Czech Republic,2009,38,57
+Denmark,2009,40,57
+Djibouti,2009,12,22
+Dominica,2009,39,58
+Dominican Republic,2009,33,48
+East Timor,2009,28,34
+Ecuador,2009,29,40
+Egypt,2009,7,18
+El Salvador,2009,33,40
+Equatorial Guinea,2009,1,7
+Eritrea,2009,3,10
+Estonia,2009,39,56
+Ethiopia,2009,13,20
+Fiji,2009,7,31
+Finland,2009,40,60
+France,2009,38,58
+Gabon,2009,10,26
+Gambia,2009,16,27
+Georgia,2009,18,33
+Germany,2009,39,57
+Ghana,2009,37,47
+Greece,2009,37,51
+Grenada,2009,38,52
+Guatemala,2009,24,33
+Guinea,2009,5,23
+Guinea-Bissau,2009,21,29
+Guyana,2009,31,42
+Haiti,2009,22,25
+Honduras,2009,25,35
+Hungary,2009,37,55
+Iceland,2009,40,60
+India,2009,34,42
+Indonesia,2009,30,36
+Iran,2009,9,13
+Iraq,2009,11,13
+Ireland,2009,39,58
+Israel,2009,37,47
+Italy,2009,38,52
+Jamaica,2009,34,41
+Japan,2009,37,51
+Jordan,2009,13,25
+Kazakhstan,2009,7,23
+Kenya,2009,19,35
+Kiribati,2009,36,55
+Kosovo,2009,,
+Kuwait,2009,19,27
+Kyrgyzstan,2009,13,26
+Laos,2009,1,12
+Latvia,2009,34,53
+Lebanon,2009,17,34
+Lesotho,2009,30,41
+Liberia,2009,25,34
+Libya,2009,1,7
+Liechtenstein,2009,40,60
+Lithuania,2009,37,54
+Luxembourg,2009,40,60
+Macedonia,2009,24,36
+Madagascar,2009,22,36
+Malawi,2009,23,34
+Malaysia,2009,20,29
+Maldives,2009,20,28
+Mali,2009,30,40
+Malta,2009,39,59
+Marshall Islands,2009,36,55
+Mauritania,2009,9,23
+Mauritius,2009,38,52
+Mexico,2009,31,39
+Micronesia,2009,37,56
+Moldova,2009,22,33
+Monaco,2009,31,56
+Mongolia,2009,34,48
+Montenegro,2009,24,42
+Morocco,2009,16,28
+Mozambique,2009,25,36
+Myanmar,2009,-3,5
+Namibia,2009,30,45
+Nauru,2009,38,55
+Nepal,2009,21,29
+Netherlands,2009,40,59
+New Zealand,2009,39,57
+Nicaragua,2009,22,35
+Niger,2009,28,30
+Nigeria,2009,17,30
+North Korea,2009,0,2
+Norway,2009,40,60
+Oman,2009,10,18
+Pakistan,2009,18,22
+Palau,2009,37,55
+Panama,2009,36,47
+Papua New Guinea,2009,23,36
+Paraguay,2009,28,36
+Peru,2009,32,41
+Philippines,2009,22,38
+Poland,2009,38,55
+Portugal,2009,39,58
+Qatar,2009,10,18
+Romania,2009,34,49
+Russia,2009,8,23
+Rwanda,2009,11,23
+Samoa,2009,32,49
+San Marino,2009,40,60
+Sao Tome & Principe,2009,33,47
+Saudi Arabia,2009,3,9
+Senegal,2009,29,43
+Serbia & Montenegro,2009,,
+Serbia,2009,29,47
+Seychelles,2009,25,42
+Sierra Leone,2009,27,37
+Singapore,2009,17,31
+Slovakia,2009,37,54
+Slovenia,2009,38,53
+Solomon Islands,2009,22,42
+Somalia,2009,0,2
+South Africa,2009,35,50
+South Korea,2009,36,50
+South Sudan,2009,,
+Spain,2009,40,57
+Sri Lanka,2009,21,31
+St. Kitts & Nevis,2009,39,53
+St. Lucia,2009,39,53
+St. Vincent & Grenadines,2009,35,53
+Sudan,2009,3,7
+Suriname,2009,33,45
+Swaziland,2009,3,20
+Sweden,2009,40,60
+Switzerland,2009,39,58
+Syria,2009,1,8
+Taiwan,2009,35,54
+Tajikistan,2009,8,19
+Tanzania,2009,22,36
+Thailand,2009,12,32
+Togo,2009,14,25
+Tonga,2009,15,40
+Trinidad & Tobago,2009,32,49
+Tunisia,2009,5,18
+Turkey,2009,29,36
+Turkmenistan,2009,1,5
+Tuvalu,2009,37,57
+Uganda,2009,15,30
+Ukraine,2009,28,45
+United Arab Emirates,2009,9,19
+United Kingdom,2009,40,57
+United States of America,2009,38,56
+Uruguay,2009,39,58
+Uzbekistan,2009,0,3
+Vanuatu,2009,32,48
+Venezuela,2009,18,28
+Vietnam,2009,2,20
+Yemen,2009,15,20
+Yugoslavia,2009,,
+Zambia,2009,26,35
+Zimbabwe,2009,4,8
+Afghanistan,2010,11,16
+Albania,2010,26,39
+Algeria,2010,11,25
+Andorra,2010,39,57
+Angola,2010,10,21
+Antigua & Barbuda,2010,29,47
+Argentina,2010,32,48
+Armenia,2010,11,28
+Australia,2010,39,57
+Austria,2010,39,58
+Azerbaijan,2010,8,21
+Bahamas,2010,38,58
+Bahrain,2010,11,21
+Bangladesh,2010,26,33
+Barbados,2010,40,59
+Belarus,2010,4,11
+Belgium,2010,40,58
+Belize,2010,37,51
+Benin,2010,32,48
+Bhutan,2010,19,24
+Bolivia,2010,28,40
+Bosnia-Herzegovina,2010,23,38
+Botswana,2010,29,46
+Brazil,2010,32,45
+Brunei,2010,7,23
+Bulgaria,2010,35,47
+Burkina Faso,2010,17,35
+Burundi,2010,22,23
+Cambodia,2010,11,21
+Cameroon,2010,8,16
+Canada,2010,40,59
+Cape Verde,2010,37,53
+Central African Republic,2010,17,22
+Chad,2010,5,15
+Chile,2010,39,58
+China,2010,1,16
+Colombia,2010,26,33
+Comoros,2010,25,30
+Congo (Brazzaville),2010,7,22
+Congo (Kinshasa),2010,11,10
+Costa Rica,2010,38,53
+Cote d’Ivoire,2010,6,20
+Croatia,2010,36,50
+Cuba,2010,1,8
+Cyprus ,2010,38,56
+Czech Republic,2010,38,57
+Denmark,2010,40,56
+Djibouti,2010,12,23
+Dominica,2010,38,58
+Dominican Republic,2010,33,45
+East Timor,2010,28,34
+Ecuador,2010,29,39
+Egypt,2010,7,20
+El Salvador,2010,34,40
+Equatorial Guinea,2010,1,7
+Eritrea,2010,3,5
+Estonia,2010,39,56
+Ethiopia,2010,13,18
+Fiji,2010,7,31
+Finland,2010,40,60
+France,2010,38,58
+Gabon,2010,9,25
+Gambia,2010,15,24
+Georgia,2010,20,34
+Germany,2010,39,57
+Ghana,2010,37,47
+Greece,2010,36,50
+Grenada,2010,38,52
+Guatemala,2010,23,33
+Guinea,2010,2,13
+Guinea-Bissau,2010,21,27
+Guyana,2010,31,41
+Haiti,2010,22,25
+Honduras,2010,18,33
+Hungary,2010,37,54
+Iceland,2010,40,59
+India,2010,34,42
+Indonesia,2010,30,35
+Iran,2010,7,13
+Iraq,2010,12,14
+Ireland,2010,39,58
+Israel,2010,36,46
+Italy,2010,37,52
+Jamaica,2010,34,41
+Japan,2010,37,51
+Jordan,2010,10,24
+Kazakhstan,2010,7,21
+Kenya,2010,19,33
+Kiribati,2010,36,55
+Kosovo,2010,14,26
+Kuwait,2010,19,27
+Kyrgyzstan,2010,11,25
+Laos,2010,1,12
+Latvia,2010,33,53
+Lebanon,2010,17,35
+Lesotho,2010,29,41
+Liberia,2010,24,34
+Libya,2010,1,7
+Liechtenstein,2010,40,60
+Lithuania,2010,37,53
+Luxembourg,2010,40,60
+Macedonia,2010,25,38
+Madagascar,2010,9,32
+Malawi,2010,26,34
+Malaysia,2010,20,29
+Maldives,2010,25,32
+Mali,2010,31,40
+Malta,2010,39,58
+Marshall Islands,2010,36,55
+Mauritania,2010,11,23
+Mauritius,2010,38,52
+Mexico,2010,30,39
+Micronesia,2010,37,56
+Moldova,2010,25,33
+Monaco,2010,31,56
+Mongolia,2010,35,50
+Montenegro,2010,25,44
+Morocco,2010,14,28
+Mozambique,2010,23,36
+Myanmar,2010,-3,5
+Namibia,2010,30,46
+Nauru,2010,38,55
+Nepal,2010,21,29
+Netherlands,2010,40,59
+New Zealand,2010,39,58
+Nicaragua,2010,20,34
+Niger,2010,13,29
+Nigeria,2010,16,29
+North Korea,2010,0,1
+Norway,2010,40,60
+Oman,2010,9,18
+Pakistan,2010,19,24
+Palau,2010,37,55
+Panama,2010,36,47
+Papua New Guinea,2010,23,36
+Paraguay,2010,28,36
+Peru,2010,31,41
+Philippines,2010,21,36
+Poland,2010,38,55
+Portugal,2010,39,58
+Qatar,2010,10,18
+Romania,2010,34,49
+Russia,2010,7,20
+Rwanda,2010,10,24
+Samoa,2010,32,49
+San Marino,2010,40,60
+Sao Tome & Principe,2010,33,47
+Saudi Arabia,2010,3,9
+Senegal,2010,29,43
+Serbia & Montenegro,2010,,
+Serbia,2010,30,48
+Seychelles,2010,25,42
+Sierra Leone,2010,27,37
+Singapore,2010,17,31
+Slovakia,2010,37,53
+Slovenia,2010,38,53
+Solomon Islands,2010,22,42
+Somalia,2010,0,1
+South Africa,2010,35,49
+South Korea,2010,36,50
+South Sudan,2010,,
+Spain,2010,40,57
+Sri Lanka,2010,22,30
+St. Kitts & Nevis,2010,39,53
+St. Lucia,2010,39,53
+St. Vincent & Grenadines,2010,35,53
+Sudan,2010,3,6
+Suriname,2010,33,45
+Swaziland,2010,3,21
+Sweden,2010,40,60
+Switzerland,2010,39,57
+Syria,2010,1,8
+Taiwan,2010,36,52
+Tajikistan,2010,8,19
+Tanzania,2010,21,36
+Thailand,2010,12,32
+Togo,2010,16,27
+Tonga,2010,15,40
+Trinidad & Tobago,2010,32,49
+Tunisia,2010,5,18
+Turkey,2010,27,36
+Turkmenistan,2010,1,7
+Tuvalu,2010,37,57
+Uganda,2010,15,30
+Ukraine,2010,28,45
+United Arab Emirates,2010,8,19
+United Kingdom,2010,40,56
+United States of America,2010,38,56
+Uruguay,2010,39,58
+Uzbekistan,2010,0,4
+Vanuatu,2010,32,48
+Venezuela,2010,16,27
+Vietnam,2010,2,19
+Yemen,2010,11,18
+Yugoslavia,2010,,
+Zambia,2010,26,34
+Zimbabwe,2010,7,10
+Afghanistan,2011,10,15
+Albania,2011,26,40
+Algeria,2011,11,25
+Andorra,2011,39,57
+Angola,2011,10,21
+Antigua & Barbuda,2011,29,48
+Argentina,2011,32,48
+Armenia,2011,11,28
+Australia,2011,39,57
+Austria,2011,39,58
+Azerbaijan,2011,7,21
+Bahamas,2011,38,58
+Bahrain,2011,11,19
+Bangladesh,2011,26,34
+Barbados,2011,40,59
+Belarus,2011,4,11
+Belgium,2011,39,58
+Belize,2011,37,51
+Benin,2011,33,50
+Bhutan,2011,19,24
+Bolivia,2011,27,39
+Bosnia-Herzegovina,2011,23,37
+Botswana,2011,29,46
+Brazil,2011,32,46
+Brunei,2011,7,23
+Bulgaria,2011,35,47
+Burkina Faso,2011,17,36
+Burundi,2011,13,22
+Cambodia,2011,9,20
+Cameroon,2011,7,16
+Canada,2011,40,59
+Cape Verde,2011,37,53
+Central African Republic,2011,15,22
+Chad,2011,5,16
+Chile,2011,39,58
+China,2011,2,15
+Colombia,2011,27,34
+Comoros,2011,25,30
+Congo (Brazzaville),2011,7,22
+Congo (Kinshasa),2011,11,10
+Costa Rica,2011,38,53
+Cote d’Ivoire,2011,4,16
+Croatia,2011,36,50
+Cuba,2011,1,9
+Cyprus ,2011,38,56
+Czech Republic,2011,38,57
+Denmark,2011,40,57
+Djibouti,2011,10,23
+Dominica,2011,38,58
+Dominican Republic,2011,31,45
+East Timor,2011,28,34
+Ecuador,2011,28,39
+Egypt,2011,6,19
+El Salvador,2011,34,41
+Equatorial Guinea,2011,1,7
+Eritrea,2011,2,5
+Estonia,2011,39,56
+Ethiopia,2011,8,13
+Fiji,2011,7,30
+Finland,2011,40,60
+France,2011,38,57
+Gabon,2011,9,25
+Gambia,2011,15,23
+Georgia,2011,20,36
+Germany,2011,39,57
+Ghana,2011,37,47
+Greece,2011,36,50
+Grenada,2011,38,51
+Guatemala,2011,23,34
+Guinea,2011,14,22
+Guinea-Bissau,2011,18,27
+Guyana,2011,31,41
+Haiti,2011,20,25
+Honduras,2011,19,33
+Hungary,2011,37,53
+Iceland,2011,40,59
+India,2011,34,42
+Indonesia,2011,30,35
+Iran,2011,6,11
+Iraq,2011,12,13
+Ireland,2011,39,58
+Israel,2011,36,47
+Italy,2011,37,52
+Jamaica,2011,33,40
+Japan,2011,37,51
+Jordan,2011,10,24
+Kazakhstan,2011,6,22
+Kenya,2011,21,35
+Kiribati,2011,36,55
+Kosovo,2011,15,26
+Kuwait,2011,19,25
+Kyrgyzstan,2011,13,24
+Laos,2011,0,12
+Latvia,2011,33,52
+Lebanon,2011,17,35
+Lesotho,2011,29,41
+Liberia,2011,24,34
+Libya,2011,1,7
+Liechtenstein,2011,40,60
+Lithuania,2011,37,53
+Luxembourg,2011,40,60
+Macedonia,2011,26,40
+Madagascar,2011,7,32
+Malawi,2011,26,34
+Malaysia,2011,20,29
+Maldives,2011,24,32
+Mali,2011,31,41
+Malta,2011,39,58
+Marshall Islands,2011,36,55
+Mauritania,2011,11,23
+Mauritius,2011,38,52
+Mexico,2011,29,37
+Micronesia,2011,37,56
+Moldova,2011,27,36
+Monaco,2011,31,56
+Mongolia,2011,35,50
+Montenegro,2011,27,45
+Morocco,2011,14,28
+Mozambique,2011,23,36
+Myanmar,2011,0,5
+Namibia,2011,30,45
+Nauru,2011,38,55
+Nepal,2011,20,28
+Netherlands,2011,40,58
+New Zealand,2011,39,58
+Nicaragua,2011,20,34
+Niger,2011,12,30
+Nigeria,2011,19,29
+North Korea,2011,0,1
+Norway,2011,40,60
+Oman,2011,9,18
+Pakistan,2011,20,24
+Palau,2011,37,55
+Panama,2011,36,47
+Papua New Guinea,2011,23,36
+Paraguay,2011,28,36
+Peru,2011,31,41
+Philippines,2011,25,36
+Poland,2011,38,55
+Portugal,2011,39,58
+Qatar,2011,10,18
+Romania,2011,34,49
+Russia,2011,7,20
+Rwanda,2011,8,19
+Samoa,2011,32,49
+San Marino,2011,40,60
+Sao Tome & Principe,2011,33,47
+Saudi Arabia,2011,3,9
+Senegal,2011,28,43
+Serbia & Montenegro,2011,,
+Serbia,2011,30,48
+Seychelles,2011,25,42
+Sierra Leone,2011,27,37
+Singapore,2011,17,31
+Slovakia,2011,37,53
+Slovenia,2011,38,53
+Solomon Islands,2011,22,42
+Somalia,2011,0,1
+South Africa,2011,35,48
+South Korea,2011,36,50
+South Sudan,2011,,
+Spain,2011,40,57
+Sri Lanka,2011,17,28
+St. Kitts & Nevis,2011,39,53
+St. Lucia,2011,39,53
+St. Vincent & Grenadines,2011,36,53
+Sudan,2011,5,6
+Suriname,2011,33,45
+Swaziland,2011,3,20
+Sweden,2011,40,60
+Switzerland,2011,39,57
+Syria,2011,1,8
+Taiwan,2011,36,51
+Tajikistan,2011,8,18
+Tanzania,2011,28,36
+Thailand,2011,12,30
+Togo,2011,16,26
+Tonga,2011,29,42
+Trinidad & Tobago,2011,33,49
+Tunisia,2011,5,18
+Turkey,2011,27,36
+Turkmenistan,2011,1,7
+Tuvalu,2011,37,57
+Uganda,2011,15,30
+Ukraine,2011,27,40
+United Arab Emirates,2011,8,19
+United Kingdom,2011,40,57
+United States of America,2011,38,56
+Uruguay,2011,39,58
+Uzbekistan,2011,0,4
+Vanuatu,2011,32,48
+Venezuela,2011,17,25
+Vietnam,2011,2,18
+Yemen,2011,11,18
+Yugoslavia,2011,,
+Zambia,2011,25,33
+Zimbabwe,2011,8,13
+Afghanistan,2012,10,13
+Albania,2012,24,39
+Algeria,2012,11,24
+Andorra,2012,39,57
+Angola,2012,10,19
+Antigua & Barbuda,2012,29,48
+Argentina,2012,32,49
+Armenia,2012,11,29
+Australia,2012,39,57
+Austria,2012,39,58
+Azerbaijan,2012,6,17
+Bahamas,2012,38,58
+Bahrain,2012,8,12
+Bangladesh,2012,25,33
+Barbados,2012,40,59
+Belarus,2012,4,10
+Belgium,2012,40,58
+Belize,2012,37,51
+Benin,2012,32,49
+Bhutan,2012,19,24
+Bolivia,2012,28,38
+Bosnia-Herzegovina,2012,23,37
+Botswana,2012,29,46
+Brazil,2012,33,47
+Brunei,2012,7,23
+Bulgaria,2012,34,47
+Burkina Faso,2012,16,35
+Burundi,2012,13,22
+Cambodia,2012,9,21
+Cameroon,2012,7,16
+Canada,2012,40,59
+Cape Verde,2012,37,53
+Central African Republic,2012,17,22
+Chad,2012,5,16
+Chile,2012,39,58
+China,2012,2,14
+Colombia,2012,27,34
+Comoros,2012,25,30
+Congo (Brazzaville),2012,7,22
+Congo (Kinshasa),2012,9,11
+Costa Rica,2012,38,53
+Cote d’Ivoire,2012,11,13
+Croatia,2012,36,50
+Cuba,2012,1,10
+Cyprus ,2012,38,55
+Czech Republic,2012,38,57
+Denmark,2012,40,58
+Djibouti,2012,9,20
+Dominica,2012,38,58
+Dominican Republic,2012,31,44
+East Timor,2012,28,34
+Ecuador,2012,27,36
+Egypt,2012,11,24
+El Salvador,2012,35,41
+Equatorial Guinea,2012,1,7
+Eritrea,2012,2,4
+Estonia,2012,39,56
+Ethiopia,2012,7,12
+Fiji,2012,7,28
+Finland,2012,40,60
+France,2012,38,57
+Gabon,2012,9,25
+Gambia,2012,7,17
+Georgia,2012,22,36
+Germany,2012,39,57
+Ghana,2012,37,47
+Greece,2012,35,50
+Grenada,2012,38,51
+Guatemala,2012,24,34
+Guinea,2012,14,20
+Guinea-Bissau,2012,18,27
+Guyana,2012,31,41
+Haiti,2012,20,25
+Honduras,2012,19,33
+Hungary,2012,36,52
+Iceland,2012,40,59
+India,2012,34,43
+Indonesia,2012,30,35
+Iran,2012,6,10
+Iraq,2012,12,13
+Ireland,2012,39,58
+Israel,2012,36,45
+Italy,2012,36,53
+Jamaica,2012,33,40
+Japan,2012,37,51
+Jordan,2012,10,25
+Kazakhstan,2012,6,21
+Kenya,2012,21,36
+Kiribati,2012,36,55
+Kosovo,2012,15,26
+Kuwait,2012,19,25
+Kyrgyzstan,2012,16,25
+Laos,2012,0,12
+Latvia,2012,33,51
+Lebanon,2012,17,34
+Lesotho,2012,28,41
+Liberia,2012,26,34
+Libya,2012,3,14
+Liechtenstein,2012,39,59
+Lithuania,2012,37,53
+Luxembourg,2012,40,60
+Macedonia,2012,26,39
+Madagascar,2012,7,32
+Malawi,2012,25,32
+Malaysia,2012,20,29
+Maldives,2012,24,32
+Mali,2012,31,41
+Malta,2012,39,58
+Marshall Islands,2012,36,55
+Mauritania,2012,11,22
+Mauritius,2012,38,52
+Mexico,2012,29,37
+Micronesia,2012,37,56
+Moldova,2012,28,37
+Monaco,2012,31,56
+Mongolia,2012,35,50
+Montenegro,2012,27,45
+Morocco,2012,15,28
+Mozambique,2012,23,36
+Myanmar,2012,4,10
+Namibia,2012,30,46
+Nauru,2012,38,55
+Nepal,2012,21,27
+Netherlands,2012,40,59
+New Zealand,2012,39,58
+Nicaragua,2012,17,34
+Niger,2012,26,30
+Nigeria,2012,21,28
+North Korea,2012,0,2
+Norway,2012,40,60
+Oman,2012,9,18
+Pakistan,2012,20,23
+Palau,2012,37,55
+Panama,2012,36,47
+Papua New Guinea,2012,23,36
+Paraguay,2012,28,36
+Peru,2012,30,41
+Philippines,2012,26,36
+Poland,2012,38,55
+Portugal,2012,39,58
+Qatar,2012,10,18
+Romania,2012,34,49
+Russia,2012,7,21
+Rwanda,2012,8,17
+Samoa,2012,32,49
+San Marino,2012,40,60
+Sao Tome & Principe,2012,33,47
+Saudi Arabia,2012,3,7
+Senegal,2012,28,43
+Serbia & Montenegro,2012,,
+Serbia,2012,30,48
+Seychelles,2012,25,42
+Sierra Leone,2012,28,39
+Singapore,2012,19,33
+Slovakia,2012,37,55
+Slovenia,2012,38,53
+Solomon Islands,2012,22,42
+Somalia,2012,0,1
+South Africa,2012,34,48
+South Korea,2012,36,50
+South Sudan,2012,11,22
+Spain,2012,40,57
+Sri Lanka,2012,17,28
+St. Kitts & Nevis,2012,39,53
+St. Lucia,2012,39,53
+St. Vincent & Grenadines,2012,36,53
+Sudan,2012,2,4
+Suriname,2012,33,45
+Swaziland,2012,1,20
+Sweden,2012,40,60
+Switzerland,2012,39,57
+Syria,2012,0,6
+Taiwan,2012,36,52
+Tajikistan,2012,8,18
+Tanzania,2012,28,36
+Thailand,2012,21,31
+Togo,2012,17,27
+Tonga,2012,29,42
+Trinidad & Tobago,2012,33,48
+Tunisia,2012,25,33
+Turkey,2012,28,35
+Turkmenistan,2012,1,6
+Tuvalu,2012,37,57
+Uganda,2012,13,29
+Ukraine,2012,23,37
+United Arab Emirates,2012,8,16
+United Kingdom,2012,40,56
+United States of America,2012,38,55
+Uruguay,2012,39,58
+Uzbekistan,2012,0,4
+Vanuatu,2012,32,48
+Venezuela,2012,17,24
+Vietnam,2012,2,17
+Yemen,2012,8,15
+Yugoslavia,2012,,
+Zambia,2012,29,34
+Zimbabwe,2012,8,12
+Afghanistan,2013,11,16
+Albania,2013,24,39
+Algeria,2013,11,24
+Andorra,2013,39,57
+Angola,2013,11,19
+Antigua & Barbuda,2013,31,49
+Argentina,2013,31,49
+Armenia,2013,13,29
+Australia,2013,39,58
+Austria,2013,38,58
+Azerbaijan,2013,6,17
+Bahamas,2013,38,58
+Bahrain,2013,6,12
+Bangladesh,2013,25,31
+Barbados,2013,40,59
+Belarus,2013,4,10
+Belgium,2013,40,57
+Belize,2013,37,51
+Benin,2013,32,50
+Bhutan,2013,22,24
+Bolivia,2013,29,40
+Bosnia-Herzegovina,2013,25,37
+Botswana,2013,28,46
+Brazil,2013,33,48
+Brunei,2013,7,23
+Bulgaria,2013,34,47
+Burkina Faso,2013,17,36
+Burundi,2013,12,22
+Cambodia,2013,9,20
+Cameroon,2013,7,16
+Canada,2013,40,58
+Cape Verde,2013,37,53
+Central African Republic,2013,16,19
+Chad,2013,5,16
+Chile,2013,39,57
+China,2013,2,15
+Colombia,2013,27,34
+Comoros,2013,25,30
+Congo (Brazzaville),2013,7,22
+Congo (Kinshasa),2013,9,11
+Costa Rica,2013,38,53
+Cote d’Ivoire,2013,13,21
+Croatia,2013,36,50
+Cuba,2013,1,10
+Cyprus ,2013,38,55
+Czech Republic,2013,38,57
+Denmark,2013,40,58
+Djibouti,2013,9,20
+Dominica,2013,38,57
+Dominican Republic,2013,31,44
+East Timor,2013,29,34
+Ecuador,2013,24,36
+Egypt,2013,15,23
+El Salvador,2013,35,42
+Equatorial Guinea,2013,1,7
+Eritrea,2013,1,2
+Estonia,2013,39,56
+Ethiopia,2013,7,11
+Fiji,2013,7,30
+Finland,2013,40,60
+France,2013,38,57
+Gabon,2013,9,25
+Gambia,2013,7,16
+Georgia,2013,24,36
+Germany,2013,39,57
+Ghana,2013,37,47
+Greece,2013,35,48
+Grenada,2013,38,51
+Guatemala,2013,24,33
+Guinea,2013,15,24
+Guinea-Bissau,2013,7,23
+Guyana,2013,31,40
+Haiti,2013,19,24
+Honduras,2013,18,33
+Hungary,2013,36,52
+Iceland,2013,40,60
+India,2013,34,42
+Indonesia,2013,30,35
+Iran,2013,6,10
+Iraq,2013,11,13
+Ireland,2013,39,58
+Israel,2013,36,45
+Italy,2013,35,53
+Jamaica,2013,33,40
+Japan,2013,37,51
+Jordan,2013,10,24
+Kazakhstan,2013,6,20
+Kenya,2013,21,34
+Kiribati,2013,36,55
+Kosovo,2013,16,26
+Kuwait,2013,17,24
+Kyrgyzstan,2013,14,25
+Laos,2013,0,11
+Latvia,2013,33,51
+Lebanon,2013,17,32
+Lesotho,2013,31,41
+Liberia,2013,26,34
+Libya,2013,22,21
+Liechtenstein,2013,39,59
+Lithuania,2013,37,53
+Luxembourg,2013,40,60
+Macedonia,2013,26,38
+Madagascar,2013,7,28
+Malawi,2013,26,34
+Malaysia,2013,20,28
+Maldives,2013,17,29
+Mali,2013,5,19
+Malta,2013,39,58
+Marshall Islands,2013,36,55
+Mauritania,2013,11,23
+Mauritius,2013,38,52
+Mexico,2013,28,37
+Micronesia,2013,37,56
+Moldova,2013,29,36
+Monaco,2013,31,56
+Mongolia,2013,36,50
+Montenegro,2013,27,45
+Morocco,2013,16,27
+Mozambique,2013,23,36
+Myanmar,2013,9,17
+Namibia,2013,30,46
+Nauru,2013,38,55
+Nepal,2013,20,27
+Netherlands,2013,40,59
+New Zealand,2013,39,58
+Nicaragua,2013,17,34
+Niger,2013,26,30
+Nigeria,2013,20,26
+North Korea,2013,0,3
+Norway,2013,40,60
+Oman,2013,9,17
+Pakistan,2013,20,22
+Palau,2013,37,55
+Panama,2013,36,46
+Papua New Guinea,2013,23,36
+Paraguay,2013,27,35
+Peru,2013,30,41
+Philippines,2013,26,37
+Poland,2013,38,55
+Portugal,2013,39,58
+Qatar,2013,10,18
+Romania,2013,32,49
+Russia,2013,7,19
+Rwanda,2013,8,16
+Samoa,2013,32,49
+San Marino,2013,40,60
+Sao Tome & Principe,2013,34,47
+Saudi Arabia,2013,3,7
+Senegal,2013,32,43
+Serbia & Montenegro,2013,,
+Serbia,2013,30,48
+Seychelles,2013,25,42
+Sierra Leone,2013,30,40
+Singapore,2013,19,33
+Slovakia,2013,37,55
+Slovenia,2013,38,53
+Solomon Islands,2013,22,43
+Somalia,2013,0,2
+South Africa,2013,34,47
+South Korea,2013,36,50
+South Sudan,2013,11,20
+Spain,2013,39,57
+Sri Lanka,2013,16,27
+St. Kitts & Nevis,2013,38,53
+St. Lucia,2013,39,54
+St. Vincent & Grenadines,2013,36,53
+Sudan,2013,2,5
+Suriname,2013,33,44
+Swaziland,2013,1,20
+Sweden,2013,40,60
+Switzerland,2013,39,57
+Syria,2013,-1,6
+Taiwan,2013,36,52
+Tajikistan,2013,8,16
+Tanzania,2013,28,38
+Thailand,2013,22,31
+Togo,2013,16,27
+Tonga,2013,29,44
+Trinidad & Tobago,2013,33,48
+Tunisia,2013,26,32
+Turkey,2013,28,33
+Turkmenistan,2013,1,6
+Tuvalu,2013,37,57
+Uganda,2013,12,28
+Ukraine,2013,21,36
+United Arab Emirates,2013,8,14
+United Kingdom,2013,40,57
+United States of America,2013,37,56
+Uruguay,2013,39,58
+Uzbekistan,2013,0,4
+Vanuatu,2013,32,47
+Venezuela,2013,15,24
+Vietnam,2013,2,17
+Yemen,2013,9,16
+Yugoslavia,2013,,
+Zambia,2013,28,34
+Zimbabwe,2013,11,14
+Afghanistan,2014,11,15
+Albania,2014,27,40
+Algeria,2014,11,23
+Andorra,2014,39,57
+Angola,2014,11,18
+Antigua & Barbuda,2014,31,49
+Argentina,2014,31,49
+Armenia,2014,14,29
+Australia,2014,39,58
+Austria,2014,38,58
+Azerbaijan,2014,6,16
+Bahamas,2014,38,58
+Bahrain,2014,6,10
+Bangladesh,2014,24,29
+Barbados,2014,40,59
+Belarus,2014,4,10
+Belgium,2014,40,57
+Belize,2014,36,51
+Benin,2014,32,48
+Bhutan,2014,28,27
+Bolivia,2014,29,38
+Bosnia-Herzegovina,2014,24,37
+Botswana,2014,28,46
+Brazil,2014,33,48
+Brunei,2014,7,23
+Bulgaria,2014,31,47
+Burkina Faso,2014,17,36
+Burundi,2014,12,22
+Cambodia,2014,10,20
+Cameroon,2014,8,16
+Canada,2014,39,59
+Cape Verde,2014,37,53
+Central African Republic,2014,0,6
+Chad,2014,5,16
+Chile,2014,39,56
+China,2014,2,15
+Colombia,2014,28,34
+Comoros,2014,25,30
+Congo (Brazzaville),2014,7,23
+Congo (Kinshasa),2014,9,11
+Costa Rica,2014,37,53
+Cote d’Ivoire,2014,17,28
+Croatia,2014,36,50
+Cuba,2014,1,11
+Cyprus ,2014,37,55
+Czech Republic,2014,37,57
+Denmark,2014,40,58
+Djibouti,2014,9,20
+Dominica,2014,38,57
+Dominican Republic,2014,30,43
+East Timor,2014,29,34
+Ecuador,2014,24,36
+Egypt,2014,9,22
+El Salvador,2014,35,42
+Equatorial Guinea,2014,1,7
+Eritrea,2014,1,2
+Estonia,2014,39,56
+Ethiopia,2014,7,11
+Fiji,2014,7,30
+Finland,2014,40,60
+France,2014,38,57
+Gabon,2014,9,25
+Gambia,2014,7,14
+Georgia,2014,25,38
+Germany,2014,39,57
+Ghana,2014,37,47
+Greece,2014,35,48
+Grenada,2014,38,51
+Guatemala,2014,24,32
+Guinea,2014,17,24
+Guinea-Bissau,2014,9,23
+Guyana,2014,31,41
+Haiti,2014,18,25
+Honduras,2014,20,31
+Hungary,2014,36,52
+Iceland,2014,40,60
+India,2014,34,43
+Indonesia,2014,30,34
+Iran,2014,7,10
+Iraq,2014,12,13
+Ireland,2014,39,58
+Israel,2014,36,45
+Italy,2014,37,53
+Jamaica,2014,34,40
+Japan,2014,37,53
+Jordan,2014,11,24
+Kazakhstan,2014,6,19
+Kenya,2014,22,31
+Kiribati,2014,36,55
+Kosovo,2014,17,26
+Kuwait,2014,16,23
+Kyrgyzstan,2014,14,25
+Laos,2014,1,11
+Latvia,2014,33,51
+Lebanon,2014,16,32
+Lesotho,2014,31,41
+Liberia,2014,26,33
+Libya,2014,21,20
+Liechtenstein,2014,39,59
+Lithuania,2014,37,53
+Luxembourg,2014,39,60
+Macedonia,2014,26,38
+Madagascar,2014,15,28
+Malawi,2014,26,34
+Malaysia,2014,19,28
+Maldives,2014,19,29
+Mali,2014,17,27
+Malta,2014,39,58
+Marshall Islands,2014,36,55
+Mauritania,2014,11,23
+Mauritius,2014,38,52
+Mexico,2014,28,37
+Micronesia,2014,37,56
+Moldova,2014,29,35
+Monaco,2014,31,57
+Mongolia,2014,36,50
+Montenegro,2014,27,45
+Morocco,2014,15,27
+Mozambique,2014,23,35
+Myanmar,2014,9,17
+Namibia,2014,30,46
+Nauru,2014,38,54
+Nepal,2014,23,27
+Netherlands,2014,40,59
+New Zealand,2014,39,58
+Nicaragua,2014,19,35
+Niger,2014,26,30
+Nigeria,2014,20,26
+North Korea,2014,0,3
+Norway,2014,40,60
+Oman,2014,9,17
+Pakistan,2014,21,21
+Palau,2014,37,55
+Panama,2014,35,47
+Papua New Guinea,2014,24,36
+Paraguay,2014,26,35
+Peru,2014,30,41
+Philippines,2014,26,37
+Poland,2014,38,55
+Portugal,2014,39,58
+Qatar,2014,10,18
+Romania,2014,35,49
+Russia,2014,7,19
+Rwanda,2014,9,17
+Samoa,2014,32,49
+San Marino,2014,40,60
+Sao Tome & Principe,2014,34,47
+Saudi Arabia,2014,3,7
+Senegal,2014,33,46
+Serbia & Montenegro,2014,,
+Serbia,2014,30,48
+Seychelles,2014,25,42
+Sierra Leone,2014,29,38
+Singapore,2014,19,32
+Slovakia,2014,37,54
+Slovenia,2014,38,53
+Solomon Islands,2014,22,43
+Somalia,2014,0,2
+South Africa,2014,33,48
+South Korea,2014,35,50
+South Sudan,2014,8,16
+Spain,2014,39,57
+Sri Lanka,2014,16,26
+St. Kitts & Nevis,2014,37,53
+St. Lucia,2014,39,53
+St. Vincent & Grenadines,2014,36,53
+Sudan,2014,2,5
+Suriname,2014,33,44
+Swaziland,2014,1,19
+Sweden,2014,40,59
+Switzerland,2014,39,57
+Syria,2014,-2,3
+Taiwan,2014,36,52
+Tajikistan,2014,8,16
+Tanzania,2014,29,35
+Thailand,2014,22,32
+Togo,2014,18,29
+Tonga,2014,31,44
+Trinidad & Tobago,2014,33,48
+Tunisia,2014,27,36
+Turkey,2014,28,32
+Turkmenistan,2014,1,6
+Tuvalu,2014,37,57
+Uganda,2014,11,26
+Ukraine,2014,20,35
+United Arab Emirates,2014,8,13
+United Kingdom,2014,40,57
+United States of America,2014,37,55
+Uruguay,2014,40,58
+Uzbekistan,2014,0,4
+Vanuatu,2014,32,47
+Venezuela,2014,14,24
+Vietnam,2014,3,17
+Yemen,2014,10,16
+Yugoslavia,2014,,
+Zambia,2014,25,34
+Zimbabwe,2014,12,16
+Afghanistan,2015,11,13
+Albania,2015,27,40
+Algeria,2015,11,23
+Andorra,2015,39,57
+Angola,2015,10,18
+Antigua & Barbuda,2015,31,49
+Argentina,2015,31,49
+Armenia,2015,16,30
+Australia,2015,39,58
+Austria,2015,38,58
+Azerbaijan,2015,6,14
+Bahamas,2015,38,58
+Bahrain,2015,5,10
+Bangladesh,2015,21,29
+Barbados,2015,40,59
+Belarus,2015,4,10
+Belgium,2015,40,57
+Belize,2015,36,51
+Benin,2015,32,49
+Bhutan,2015,29,27
+Bolivia,2015,29,39
+Bosnia-Herzegovina,2015,23,37
+Botswana,2015,28,45
+Brazil,2015,33,48
+Brunei,2015,7,23
+Bulgaria,2015,33,46
+Burkina Faso,2015,9,36
+Burundi,2015,11,21
+Cambodia,2015,11,20
+Cameroon,2015,9,16
+Canada,2015,39,59
+Cape Verde,2015,37,53
+Central African Republic,2015,0,6
+Chad,2015,5,16
+Chile,2015,39,56
+China,2015,2,15
+Colombia,2015,29,34
+Comoros,2015,25,30
+Congo (Brazzaville),2015,7,23
+Congo (Kinshasa),2015,9,16
+Costa Rica,2015,37,53
+Cote d’Ivoire,2015,17,29
+Croatia,2015,36,50
+Cuba,2015,1,13
+Cyprus ,2015,37,56
+Czech Republic,2015,38,57
+Denmark,2015,40,58
+Djibouti,2015,9,19
+Dominica,2015,38,57
+Dominican Republic,2015,30,43
+East Timor,2015,29,36
+Ecuador,2015,24,35
+Egypt,2015,8,18
+El Salvador,2015,35,40
+Equatorial Guinea,2015,1,7
+Eritrea,2015,1,2
+Estonia,2015,39,56
+Ethiopia,2015,7,11
+Fiji,2015,26,34
+Finland,2015,40,60
+France,2015,38,57
+Gabon,2015,9,25
+Gambia,2015,7,13
+Georgia,2015,26,38
+Germany,2015,39,57
+Ghana,2015,37,47
+Greece,2015,35,48
+Grenada,2015,38,51
+Guatemala,2015,24,31
+Guinea,2015,17,24
+Guinea-Bissau,2015,17,23
+Guyana,2015,30,41
+Haiti,2015,17,24
+Honduras,2015,20,29
+Hungary,2015,32,50
+Iceland,2015,39,60
+India,2015,35,43
+Indonesia,2015,30,34
+Iran,2015,7,10
+Iraq,2015,11,13
+Ireland,2015,39,58
+Israel,2015,36,44
+Italy,2015,36,53
+Jamaica,2015,34,40
+Japan,2015,38,54
+Jordan,2015,11,25
+Kazakhstan,2015,6,18
+Kenya,2015,22,29
+Kiribati,2015,36,55
+Kosovo,2015,23,29
+Kuwait,2015,14,23
+Kyrgyzstan,2015,14,24
+Laos,2015,1,11
+Latvia,2015,34,51
+Lebanon,2015,14,30
+Lesotho,2015,30,41
+Liberia,2015,26,30
+Libya,2015,8,15
+Liechtenstein,2015,39,59
+Lithuania,2015,38,53
+Luxembourg,2015,38,60
+Macedonia,2015,23,37
+Madagascar,2015,22,30
+Malawi,2015,27,34
+Malaysia,2015,19,27
+Maldives,2015,20,28
+Mali,2015,17,27
+Malta,2015,39,58
+Marshall Islands,2015,36,55
+Mauritania,2015,9,22
+Mauritius,2015,38,52
+Mexico,2015,28,36
+Micronesia,2015,37,56
+Moldova,2015,28,35
+Monaco,2015,31,57
+Mongolia,2015,36,50
+Montenegro,2015,27,44
+Morocco,2015,15,27
+Mozambique,2015,23,35
+Myanmar,2015,9,16
+Namibia,2015,30,46
+Nauru,2015,37,51
+Nepal,2015,24,27
+Netherlands,2015,40,59
+New Zealand,2015,39,58
+Nicaragua,2015,19,35
+Niger,2015,26,30
+Nigeria,2015,18,25
+North Korea,2015,0,3
+Norway,2015,40,60
+Oman,2015,9,17
+Pakistan,2015,20,22
+Palau,2015,37,55
+Panama,2015,35,47
+Papua New Guinea,2015,23,36
+Paraguay,2015,27,38
+Peru,2015,30,41
+Philippines,2015,26,37
+Poland,2015,38,55
+Portugal,2015,39,58
+Qatar,2015,10,18
+Romania,2015,34,49
+Russia,2015,7,16
+Rwanda,2015,9,16
+Samoa,2015,32,49
+San Marino,2015,40,60
+Sao Tome & Principe,2015,34,47
+Saudi Arabia,2015,3,7
+Senegal,2015,33,45
+Serbia & Montenegro,2015,,
+Serbia,2015,31,49
+Seychelles,2015,25,42
+Sierra Leone,2015,28,37
+Singapore,2015,19,32
+Slovakia,2015,37,53
+Slovenia,2015,38,53
+Solomon Islands,2015,25,43
+Somalia,2015,0,2
+South Africa,2015,33,48
+South Korea,2015,34,50
+South Sudan,2015,2,13
+Spain,2015,39,57
+Sri Lanka,2015,16,25
+St. Kitts & Nevis,2015,37,53
+St. Lucia,2015,39,53
+St. Vincent & Grenadines,2015,36,54
+Sudan,2015,2,4
+Suriname,2015,33,44
+Swaziland,2015,1,17
+Sweden,2015,40,59
+Switzerland,2015,39,57
+Syria,2015,-3,2
+Taiwan,2015,37,51
+Tajikistan,2015,7,15
+Tanzania,2015,28,35
+Thailand,2015,8,25
+Togo,2015,18,29
+Tonga,2015,31,44
+Trinidad & Tobago,2015,33,48
+Tunisia,2015,36,43
+Turkey,2015,26,29
+Turkmenistan,2015,1,5
+Tuvalu,2015,37,57
+Uganda,2015,11,25
+Ukraine,2015,25,37
+United Arab Emirates,2015,8,13
+United Kingdom,2015,40,57
+United States of America,2015,37,55
+Uruguay,2015,40,58
+Uzbekistan,2015,0,4
+Vanuatu,2015,32,47
+Venezuela,2015,13,22
+Vietnam,2015,3,17
+Yemen,2015,9,16
+Yugoslavia,2015,,
+Zambia,2015,26,34
+Zimbabwe,2015,12,16
+Afghanistan,2016,10,14
+Albania,2016,27,40
+Algeria,2016,11,24
+Andorra,2016,39,57
+Angola,2016,10,14
+Antigua & Barbuda,2016,33,49
+Argentina,2016,31,48
+Armenia,2016,16,30
+Australia,2016,40,58
+Austria,2016,37,58
+Azerbaijan,2016,5,11
+Bahamas,2016,38,54
+Bahrain,2016,4,10
+Bangladesh,2016,21,28
+Barbados,2016,40,58
+Belarus,2016,4,13
+Belgium,2016,40,56
+Belize,2016,36,51
+Benin,2016,33,49
+Bhutan,2016,29,27
+Bolivia,2016,29,39
+Bosnia-Herzegovina,2016,22,35
+Botswana,2016,28,45
+Brazil,2016,33,48
+Brunei,2016,7,22
+Bulgaria,2016,33,47
+Burkina Faso,2016,21,38
+Burundi,2016,5,14
+Cambodia,2016,11,21
+Cameroon,2016,9,15
+Canada,2016,40,59
+Cape Verde,2016,37,53
+Central African Republic,2016,1,6
+Chad,2016,4,16
+Chile,2016,38,57
+China,2016,1,15
+Colombia,2016,29,34
+Comoros,2016,24,31
+Congo (Brazzaville),2016,6,22
+Congo (Kinshasa),2016,9,16
+Costa Rica,2016,37,53
+Cote d’Ivoire,2016,20,31
+Croatia,2016,37,50
+Cuba,2016,1,14
+Cyprus ,2016,38,56
+Czech Republic,2016,38,57
+Denmark,2016,40,58
+Djibouti,2016,9,19
+Dominica,2016,38,57
+Dominican Republic,2016,29,41
+East Timor,2016,29,36
+Ecuador,2016,24,35
+Egypt,2016,9,18
+El Salvador,2016,33,36
+Equatorial Guinea,2016,1,7
+Eritrea,2016,1,2
+Estonia,2016,38,56
+Ethiopia,2016,4,11
+Fiji,2016,27,35
+Finland,2016,40,60
+France,2016,38,53
+Gabon,2016,9,25
+Gambia,2016,5,13
+Georgia,2016,27,37
+Germany,2016,39,56
+Ghana,2016,37,46
+Greece,2016,35,48
+Grenada,2016,38,51
+Guatemala,2016,23,31
+Guinea,2016,17,23
+Guinea-Bissau,2016,16,23
+Guyana,2016,32,42
+Haiti,2016,17,24
+Honduras,2016,19,26
+Hungary,2016,32,47
+Iceland,2016,40,60
+India,2016,35,42
+Indonesia,2016,31,34
+Iran,2016,7,10
+Iraq,2016,12,15
+Ireland,2016,39,57
+Israel,2016,36,44
+Italy,2016,36,53
+Jamaica,2016,34,41
+Japan,2016,40,56
+Jordan,2016,11,25
+Kazakhstan,2016,6,18
+Kenya,2016,22,29
+Kiribati,2016,36,55
+Kosovo,2016,24,28
+Kuwait,2016,13,23
+Kyrgyzstan,2016,14,24
+Laos,2016,1,11
+Latvia,2016,35,51
+Lebanon,2016,13,30
+Lesotho,2016,28,39
+Liberia,2016,28,33
+Libya,2016,6,14
+Liechtenstein,2016,39,59
+Lithuania,2016,38,53
+Luxembourg,2016,38,60
+Macedonia,2016,22,35
+Madagascar,2016,24,32
+Malawi,2016,27,37
+Malaysia,2016,18,27
+Maldives,2016,19,24
+Mali,2016,17,28
+Malta,2016,39,57
+Marshall Islands,2016,37,55
+Mauritania,2016,9,21
+Mauritius,2016,38,52
+Mexico,2016,28,37
+Micronesia,2016,37,56
+Moldova,2016,25,35
+Monaco,2016,31,57
+Mongolia,2016,36,50
+Montenegro,2016,27,43
+Morocco,2016,15,26
+Mozambique,2016,22,34
+Myanmar,2016,11,17
+Namibia,2016,30,47
+Nauru,2016,35,49
+Nepal,2016,25,26
+Netherlands,2016,40,59
+New Zealand,2016,40,58
+Nicaragua,2016,19,35
+Niger,2016,24,28
+Nigeria,2016,23,25
+North Korea,2016,0,3
+Norway,2016,40,60
+Oman,2016,8,17
+Pakistan,2016,20,21
+Palau,2016,37,55
+Panama,2016,35,48
+Papua New Guinea,2016,23,36
+Paraguay,2016,27,37
+Peru,2016,30,41
+Philippines,2016,27,38
+Poland,2016,38,55
+Portugal,2016,39,58
+Qatar,2016,9,18
+Romania,2016,34,49
+Russia,2016,7,15
+Rwanda,2016,8,16
+Samoa,2016,31,49
+San Marino,2016,40,60
+Sao Tome & Principe,2016,34,47
+Saudi Arabia,2016,3,7
+Senegal,2016,33,45
+Serbia & Montenegro,2016,,
+Serbia,2016,30,48
+Seychelles,2016,26,42
+Sierra Leone,2016,28,37
+Singapore,2016,19,32
+Slovakia,2016,36,53
+Slovenia,2016,39,53
+Solomon Islands,2016,25,43
+Somalia,2016,0,2
+South Africa,2016,33,46
+South Korea,2016,34,49
+South Sudan,2016,2,12
+Spain,2016,39,56
+Sri Lanka,2016,23,32
+St. Kitts & Nevis,2016,35,53
+St. Lucia,2016,39,53
+St. Vincent & Grenadines,2016,37,54
+Sudan,2016,2,4
+Suriname,2016,34,43
+Swaziland,2016,1,17
+Sweden,2016,40,60
+Switzerland,2016,39,57
+Syria,2016,-3,2
+Taiwan,2016,37,52
+Tajikistan,2016,2,14
+Tanzania,2016,27,33
+Thailand,2016,7,25
+Togo,2016,18,30
+Tonga,2016,31,44
+Trinidad & Tobago,2016,33,48
+Tunisia,2016,37,42
+Turkey,2016,24,29
+Turkmenistan,2016,0,4
+Tuvalu,2016,37,57
+Uganda,2016,11,25
+Ukraine,2016,25,36
+United Arab Emirates,2016,7,13
+United Kingdom,2016,40,55
+United States of America,2016,36,54
+Uruguay,2016,40,58
+Uzbekistan,2016,0,3
+Vanuatu,2016,31,47
+Venezuela,2016,15,20
+Vietnam,2016,3,17
+Yemen,2016,4,13
+Yugoslavia,2016,,
+Zambia,2016,26,34
+Zimbabwe,2016,12,20

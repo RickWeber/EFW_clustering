@@ -1,0 +1,210 @@
+Country, Status,PR Rating,CL Rating
+Afghanistan,NF,6,6
+Albania,PF,3,3
+Algeria,NF,6,5
+Andorra,F,1,1
+Angola,NF,6,5
+Antigua and Barbuda,F,2,2
+Argentina,F,2,2
+Armenia,PF,5,4
+Australia,F,1,1
+Austria,F,1,1
+Azerbaijan,NF,6,6
+Bahamas,F,1,1
+Bahrain,NF,6,6
+Bangladesh,PF,3,4
+Barbados,F,1,1
+Belarus,NF,7,6
+Belgium,F,1,1
+Belize,F,1,2
+Benin,F,2,2
+Bhutan,PF,3,4
+Bolivia,PF,3,3
+Bosnia-Herzegovina,PF,3,3
+Botswana,F,3,2
+Brazil,F,2,2
+Brunei,NF,6,5
+Bulgaria,F,2,2
+Burkina Faso,PF,5,3
+Burma,NF,6,5
+Burundi,PF,5,5
+Cambodia,NF,6,5
+Cameroon,NF,6,6
+Canada,F,1,1
+Cape Verde,F,1,1
+Central African Republic,NF,7,7
+Chad,NF,7,6
+Chile,F,1,1
+China (PRC),NF,7,6
+Colombia,PF,3,4
+Comoros,PF,3,4
+Congo (Brazzaville),NF,6,5
+Congo (Kinshasa),NF,6,6
+Costa Rica,F,1,1
+Cote d'Ivoire,PF,5,4
+Croatia,F,1,2
+Cuba,NF,7,6
+Cyprus,F,1,1
+Czech Republic,F,1,1
+Denmark,F,1,1
+Djibouti,NF,6,5
+Dominica,F,1,1
+Dominican Republic,F,2,3
+East Timor,PF,3,4
+Ecuador,PF,3,3
+Egypt,NF,6,5
+El Salvador,F,2,3
+Equatorial Guinea,NF,7,7
+Eritrea,NF,7,7
+Estonia,F,1,1
+Ethiopia,NF,6,6
+Fiji,PF,6,4
+Finland,F,1,1
+France,F,1,1
+Gabon,NF,6,5
+The Gambia,NF,6,6
+Georgia,PF,3,3
+Germany,F,1,1
+Ghana,F,1,2
+Greece,F,2,2
+Grenada,F,1,2
+Guatemala,PF,3,4
+Guinea,PF,5,5
+Guinea-Bissau,NF,6,5
+Guyana,F,2,3
+Haiti,PF,4,5
+Honduras,PF,4,4
+Hungary,F,1,2
+Iceland,F,1,1
+India,F,2,3
+Indonesia,PF,2,4
+Iran,NF,6,6
+Iraq,NF,5,6
+Ireland,F,1,1
+Israel,F,1,2
+Italy,F,1,1
+Jamaica,F,2,3
+Japan,F,1,1
+Jordan,NF,6,5
+Kazakhstan,NF,6,5
+Kenya,PF,4,4
+Kiribati,F,1,1
+Kosovo,PF,5,4
+Kuwait,PF,5,5
+Kyrgyzstan,PF,5,5
+Laos,NF,7,6
+Latvia,F,2,2
+Lebanon,PF,5,4
+Lesotho,F,2,3
+Liberia,PF,3,4
+Libya,PF,4,5
+Liechtenstein,F,1,1
+Lithuania,F,1,1
+Luxembourg,F,1,1
+Macedonia,PF,3,3
+Madagascar,PF,6,4
+Malawi,PF,3,4
+Malaysia,PF,4,4
+Maldives,PF,4,4
+Mali,PF,5,4
+Malta,F,1,1
+Marshall Islands,F,1,1
+Mauritania,NF,6,5
+Mauritius,F,1,2
+Mexico,PF,3,3
+Micronesia,F,1,1
+Moldova,PF,3,3
+Monaco,F,2,1
+Mongolia,F,1,2
+Montenegro,F,3,2
+Morocco,PF,5,4
+Mozambique,PF,4,3
+Namibia,F,2,2
+Nauru,F,1,1
+Nepal,PF,4,4
+Netherlands,F,1,1
+New Zealand,F,1,1
+Nicaragua,PF,4,3
+Niger,PF,3,4
+Nigeria,PF,4,4
+North Korea,NF,7,7
+Norway,F,1,1
+Oman,NF,6,5
+Pakistan,PF,4,5
+Palau,F,1,1
+Panama,F,2,2
+Papua New Guinea,PF,3,3
+Paraguay,PF,3,3
+Peru,F,2,3
+Philippines,PF,3,3
+Poland,F,1,1
+Portugal,F,1,1
+Qatar,NF,6,5
+Romania,F,2,2
+Russia,NF,6,5
+Rwanda,NF,6,5
+Samoa,F,2,2
+San Marino,F,1,1
+Sao Tome and Principe,F,2,2
+Saudi Arabia,NF,7,7
+Senegal,F,2,2
+Serbia,F,2,2
+Seychelles,PF,3,3
+Sierra Leone,PF,3,3
+Singapore,PF,4,4
+Slovakia,F,1,1
+Slovenia,F,1,1
+Solomon Islands,PF,4,3
+Somalia,NF,7,7
+South Africa,F,2,2
+South Korea,F,2,2
+South Sudan,NF,6,6
+Spain,F,1,1
+Sri Lanka,PF,5,4
+St. Kitts and Nevis,F,1,1
+St. Lucia,F,1,1
+St. Vincent and Grenadines,F,1,1
+Sudan,NF,7,7
+Suriname,F,2,2
+Swaziland,NF,7,5
+Sweden,F,1,1
+Switzerland,F,1,1
+Syria,NF,7,7
+Taiwan (ROC),F,1,2
+Tajikistan,NF,6,6
+Tanzania,PF,3,3
+Thailand,PF,4,4
+Togo,PF,4,4
+Tonga,F,2,2
+Trinidad and Tobago,F,2,2
+Tunisia,PF,3,3
+Turkey,PF,3,4
+Turkmenistan,NF,7,7
+Tuvalu,F,1,1
+Uganda,PF,6,4
+Ukraine,PF,4,3
+United Arab Emirates,NF,6,6
+United Kingdom,F,1,1
+United States of America,F,1,1
+Uruguay,F,1,1
+Uzbekistan,NF,7,7
+Vanuatu,F,2,2
+Venezuela,PF,5,5
+Vietnam,NF,7,5
+Yemen,NF,6,6
+Zambia,PF,3,4
+Zimbabwe,NF,5,6
+Abkhazia,PF,4,5
+Gaza Strip,NF,7,6
+Hong Kong,PF,5,2
+Indian Kashmir,PF,4,4
+Nagorno-Karabakh,PF,5,5
+Northern Cyprus,F,2,2
+Pakistani Kashmir,NF,6,5
+Puerto Rico,F,1,2
+Somaliland,PF,4,5
+South Ossetia,NF,7,6
+Tibet,NF,7,7
+Transnistria,NF,6,6
+West Bank,NF,6,5
+Western Sahara,NF,7,7
