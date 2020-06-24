@@ -1,12 +1,9 @@
-# source("libraries.R")
-
 # import EFW data
 efw <- read_excel(
   path = "data/efw-2019-master-index-data-for-researchers.xlsx",
   sheet = "EFW Panel Data 2019 Report"
 )
 # clean up column names
-## colnames(efw) <- c("year","iso3c","country.efw","EFW","EFW1.govt","EFW2.legal","EFW3.money","EFW4.trade","EFW5.reg")
 colnames(efw) <- c("year","iso3c","country.efw","EFW","EFW1","EFW2","EFW3","EFW4","EFW5")
 
 # Calculate EFW quartiles
@@ -25,6 +22,8 @@ efw_scaled <- efw %>%
   group_by(year) %>% 
   mutate_if(is.double,scale) %>% 
   ungroup()
+# clean up colnames
+colnames(efw_scaled) <- c("year","iso3c","country.efw","EFW","EFW1","EFW2","EFW3","EFW4","EFW5","quartile")
 
 # years
 years <- sort(unique(efw$year),decreasing = TRUE)

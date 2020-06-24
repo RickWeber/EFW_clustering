@@ -68,3 +68,13 @@ r2_gain_plot +
   geom_hline(yintercept = 0, color = "red", linetype = 2, size = 1/4)
 dev.off()
 
+#### Figure 3 ####
+png("figure3.png", units = "in", width = 7.5, height = 7.5, res = 300)
+cluster_wrapper() %>% pair_plots()
+dev.off()
+
+#### Find all the clusters for all the years for all values of k from 2 through 12 ####
+all_clusters <- all_the_clusters(efw_scaled) %>% mutate(scaled=TRUE)
+all_clusters_unscaled <- all_the_clusters(efw) %>% mutate(scaled=FALSE)
+
+write_csv(full_join(all_clusters,all_clusters_unscaled),"all_clusters.csv")

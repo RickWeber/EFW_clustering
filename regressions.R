@@ -1,4 +1,5 @@
-# source("script0.R")
+## Comparing baseline model with clustered model using scaled data
+# run script0.R first
 # Run clustering for every year and join with all_data
 df4 <- cluster_all_years(method = "hclust", k = 4, efw_data = efw_scaled) %>% 
   dplyr::select(year,iso3c,cl) %>% inner_join(all_data)
