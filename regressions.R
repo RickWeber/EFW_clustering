@@ -1,8 +1,6 @@
 ## Comparing baseline model with clustered model using scaled data
-# run script0.R first
-# Run clustering for every year and join with all_data
-df4 <- cluster_all_years(method = "hclust", k = 4, efw_data = efw_scaled) %>% 
-  dplyr::select(year,iso3c,cl) %>% inner_join(all_data)
+# Run script0.R first
+df4 <- all_clusters %>% dplyr::filter(k==4)
 
 # Left hand side variables
 LHS <- c("civil_liberties","political_freedom", # from freedom house

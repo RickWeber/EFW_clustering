@@ -97,7 +97,8 @@ all_the_clusters <- function(efw_data = efw_scaled){
                                cl <- purrr::map(2:12, function(x){
                                  c <- cutree(H,x)
                                  bind_cols(df, cl = c) %>% 
-                                   mutate(k=x)
+                                   mutate(k=x) %>% 
+                                   reset_cluster_order()
                                })
                                tibble(cl) %>% unnest(cols=c(cl)) %>% 
                                  mutate(method="hierarchical")
@@ -111,7 +112,8 @@ all_the_clusters <- function(efw_data = efw_scaled){
                                    dplyr::select(EFW1,EFW2,EFW3,EFW4,EFW5) %>% 
                                    kmeans(.,x))$cluster
                                  bind_cols(df, cl = c) %>% 
-                                   mutate(k=x)
+                                   mutate(k=x) %>% 
+                                   reset_cluster_order()
                                })
                                tibble(cl) %>% unnest(cols=c(cl)) %>% 
                                  mutate(method="kmeans")
