@@ -19,4 +19,4 @@ has cluster membership using hierarchical clustering (using Ward's method) and k
 #### Clusters over time
 The file `cluster_membership_over_time.R` illustrates a difficulty: the cluster label is somewhat arbitrary. This project partially overcomes this issue by using Venezuela and the United States as fixed points, and relabelling everything so these two countries always have the the same cluster labels (cluster 1 for the United states and cluster k, where k is the number of clusters, for Venezuela). But when k is 4, clusters 2 and 3 can be somewhat scrambled. 
 
-For another approach, see [my repository focussed on this issue](https://github.com/RickWeber/kmeans_over_time).
+For another approach, see [this repository focused on this issue](https://github.com/RickWeber/kmeans_over_time).
