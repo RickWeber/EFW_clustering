@@ -7,6 +7,8 @@ After cloning this repository to your local machine, run `script0.R`. That will 
 Running `app.R` will generate a page allowing you to see the clustered data for
 all available years in table and map form. Run it after running `script0.R`.
 
+Another version of that app is available [here](https://rickweber.shinyapps.io/Clusters_of_Economic_Freedom/)
+
 #### Just the data please...
 The file 
 [all_clusters.csv](https://raw.githubusercontent.com/RickWeber/EFW_clustering/master/all_clusters.csv)

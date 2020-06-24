@@ -43,7 +43,7 @@ ui <- fluidPage(
 # Define server logic 
 server <- function(input, output) {
 
-  # clustered/normalized data
+# clustered/normalized data
 clustered_data <- reactive({
       cluster_wrapper(input$method,input$year,input$k,efw_scaled,input$seed) %>% 
         rename(country = country.efw)
@@ -55,9 +55,9 @@ clustered_data <- reactive({
 # output$cluster_pairs <- renderCachedPlot({
 #   clustered_data() %>% pair_plots()},cacheKeyExpr = c(input$k,input$method,input$year))
 
-  
-  # data with cluster membership  
-  output$cluster_table <- renderTable({
+
+# data with cluster membership  
+output$cluster_table <- renderTable({
     clustered_data() %>% 
       dplyr::rename(cluster = cl,
                     `EFW quartile` = quartile)
@@ -65,21 +65,8 @@ clustered_data <- reactive({
   
   
 # summary stats
-  output$cluster_summary <- renderTable({
-    # if(input$husk == "original"){
-    #   cluster_names <- clustered_data() %>%
-    #     dplyr::select(cl,husk_cluster) %>% 
-    #     unique() %>% 
-    #     dplyr::rename(cluster = cl,
-    #                   'cluster name' = husk_cluster) 
-    #   out <- clustered_data() %>% 
-    #     summarize_clustered_data() 
-    #   out <- full_join(cluster_names,out) %>% 
-    #     arrange(cluster)
-    # } else {
-      out <- clustered_data() %>%
-        summarize_clustered_data()
-    # }
+output$cluster_summary <- renderTable({
+    out <- clustered_data() %>% summarize_clustered_data()
     out <- out %>% mutate_if(is.double,funs(round(.,digits=2)))
     new_out <- t(out)
     vars <- colnames(out)
@@ -88,8 +75,8 @@ clustered_data <- reactive({
     new_out[2:nrow(new_out),]
   },striped = TRUE)
   
-  # Create a map
-  output$cluster_map <- renderPlot({
+# Create a map
+output$cluster_map <- renderPlot({
     # # Uncomment the block of code below to use pre-compiled data if Shiny is giving you a 
     # # hard time joining the map coordinate data to the clustered data.
     # # For this to work, you'll need to run `precompile_viz_data.R`
@@ -115,9 +102,8 @@ clustered_data <- reactive({
            y = "") + scale_fill_viridis_d()
   })
   
-  # dendrogram
-  output$dendrogram <- renderPlot({
-    # dendr <- read_rds(path=paste("dendrograms/dend_",input$year,".rds",sep=""))
+# dendrogram
+output$dendrogram <- renderPlot({
     df <- efw_scaled %>% dplyr::filter(year==input$year)
     labs <- df$iso3c
     dendr <- df %>% 
@@ -128,14 +114,8 @@ clustered_data <- reactive({
       as.dendrogram()
     labels(dendr) <- as.character(labs)[order.dendrogram(dendr)]
     labels_cex(dendr) <- 0.4
-    # color_branches(dendr) <- input$k
     dendr <- color_branches(dendr, input$k, col=viridis(input$k))
-    
-    # dendr <- labels_cex(dendr, 0.4)
-    # labels(dend) <- as.character(X.$ISO3C)[order.dendrogram(dend)]
-    
     plot(dendr, main = paste(input$year,", k = ",input$k, sep = ""))
-    # dend
   })
 }
 # Run the application 
