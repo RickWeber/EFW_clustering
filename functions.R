@@ -26,38 +26,7 @@ kmeans_by_year <- function(efw_data = efw_scaled, yr = 2017, k = 4, seed = 12345
   efw_data <- clean_for_cluster(efw_data,yr)
   set.seed(seed) # since kmeans is non-deterministic
   clusters <- kmeans(efw_data,k,iter.max = 100, nstart = 10, algorithm =  "MacQueen")$cluster %>% as.integer
-  out <- cbind(out,cl = clusters) %>% #!/usr/bin/R
-    # # precompile the data for interactive_viz.R
-    rm(list = ls())
-  # # load libraries
-  source("libraries.R")
-  # 
-  # # import functions
-  source("functions.R")
-  # 
-  # # import EFW data
-  source("import_data.R")
-  
-  # precompile the map data if the shiny app isn't behaving
-  purrr::map(c("hclust","kmeans"),
-             function(method){
-               purrr::map(2:12,
-                          function(k){
-                            purrr::map(years,
-                                       function(yr){
-                                         data <- cluster_wrapper(method,yr,k) %>% full_join(map_coords)
-                                         filename <- paste("mapdf",
-                                                           method,yr,k,
-                                                           sep = "_")
-                                         path <- paste("maps/",filename,".csv",sep = "")
-                                         write_csv(data,path)
-                                       })
-                          })
-             })
-  
-  # Cluster all the data for all available years, for k=2 through 12, 
-  # using hierarchical clustering and k-means
-  hclust_al
+  out <- cbind(out,cl = clusters) %>% 
   as.tibble %>% reset_cluster_order()
   return(out)
 }
@@ -84,7 +53,7 @@ cluster_all_years <- function(method = "hclust", k = 4, efw_data = efw_scaled){
     group_by(year) %>% unnest %>% ungroup %>% dplyr::select(-year1)
 } 
 
-all_the_clusters <- function(efw_data = efw_scaled){
+all_the_clusters <- function(efw_data = efw_scaled, seed = 12345){
   hclusters <- purrr::map_df(years,
                              function(y){
                                df <- efw_data %>% 
@@ -108,6 +77,7 @@ all_the_clusters <- function(efw_data = efw_scaled){
                                df <- efw_data %>% 
                                  dplyr::filter(year==y,complete.cases(.))
                                cl <- purrr::map(2:12, function(x){
+                                 set.seed(seed) # since kmeans is non-deterministic
                                  c <- (df %>% 
                                    dplyr::select(EFW1,EFW2,EFW3,EFW4,EFW5) %>% 
                                    kmeans(.,x))$cluster
