@@ -1,6 +1,9 @@
 ## Comparing baseline model with clustered model using scaled data
 # Run script0.R first
-df4 <- all_clusters %>% dplyr::filter(k==4)
+df4 <- all_clusters %>% 
+  dplyr::filter(k==4, method=="hierarchical") %>% 
+  dplyr::select(year,iso3c,cl) %>% 
+  inner_join(all_data)
 
 # Left hand side variables
 LHS <- c("civil_liberties","political_freedom", # from freedom house
@@ -14,7 +17,9 @@ LHS <- c("civil_liberties","political_freedom", # from freedom house
 reg <- merge(LHS, years) %>%
     as_tibble() %>%
     rename(lhs = x, year = y) %>%
+    mutate(lhs = as.character(lhs)) %>% 
     group_by(lhs,year) %>%
+    full_join(df4) %>% 
     nest() %>%
     mutate(model1 = purrr::pmap(list(lhs,year),function(x,y){
         tryCatch({
