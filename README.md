@@ -19,6 +19,8 @@ Please note that replicating this dataset on your own computer may result in sli
 #### Bootstrapping
 `bootstrap_cluster_number.R` contains the code to bootstrap the data over all years in an effort to determine how many clusters the data should be divided into. The metrics provide some support for using more clusters rather than fewer, but using more clusters comes at the expense of interpretability.
 
+#### Comparing model performance
+`regressions.R` is the script used in the paper to compare the performance of regression models with and without cluster membership included. `regressions_unscaled.R` repeats the exercise with unscaled EFW scores. `regressions_lots_of_comparisons.R` includes comparisons between models using the overall EFW score and regressions using the area scores. 
 
 #### Clusters over time
 The file `cluster_membership_over_time.R` illustrates a difficulty: the cluster label is somewhat arbitrary. This project partially overcomes this issue by using Venezuela and the United States as fixed points, and relabelling everything so these two countries always have the the same cluster labels (cluster 1 for the United states and cluster k, where k is the number of clusters, for Venezuela). But when k is 4, clusters 2 and 3 can be somewhat scrambled. 
