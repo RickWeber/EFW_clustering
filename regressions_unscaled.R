@@ -1,7 +1,6 @@
 ## Comparing baseline model with clustered model using unscaled data
 # run script0.R first
-
-df4 <- all_clusters %>% 
+df4 <- all_the_clusters(efw) %>% mutate(scaled=FALSE) %>% 
   dplyr::filter(k==4, method=="hierarchical") %>% 
   dplyr::select(year,iso3c,cl) %>% 
   inner_join(all_data)
