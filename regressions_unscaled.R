@@ -99,7 +99,4 @@ comp_sum <- comp_mean %>%
   full_join(comp_max) %>% 
   dplyr::select(measure,1:3) 
 
-
-## Looking at the biggest gains were in the models looking at the income share going to the bottom 10% where the smallest gain was 0.75.
-
-## In general, this provides strong evidence that cluster membership provides information not available in the EFW index itself.
+comp_sum
