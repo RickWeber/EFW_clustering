@@ -69,6 +69,7 @@ r2_gain_plot +
 dev.off()
 
 #### Find all the clusters for all the years for all values of k from 2 through 12 ####
+# random number seed for kmeans set to default value of 12345... that's the same combination I have on my luggage!
 all_clusters <- all_the_clusters(efw_scaled) %>% mutate(scaled=TRUE)
 all_clusters_unscaled <- all_the_clusters(efw) %>% mutate(scaled=FALSE)
 
