@@ -52,8 +52,8 @@ ui <- fluidPage(
       #          tags$a(href="https://github.com/RickWeber/EFW_clustering", "GitHub."))
       helpText("For more information see",
                tags$em("Clusters of Economic Freedom Revisited"), "in",
-               tags$a(href="https://www.economics-finance.org/jef-5.php" ,"the Journal of Economics and Finance"),
-               "and on",
+               tags$a(href="https://www.economics-finance.org/aefj.php" ,"the Academy of Economics and Finance Journal"),
+               "Volume 11, and on",
                tags$a(href="https://github.com/RickWeber/EFW_clustering", "GitHub."))
     ),
     
