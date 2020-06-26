@@ -63,6 +63,7 @@ ui <- fluidPage(
         tabPanel("cluster summaries",tableOutput("cluster_summary")),
         tabPanel("data",tableOutput("cluster_table")),
         tabPanel("dendrogram",plotOutput("dendrogram")),
+        tabPanel("pair plots",plotOutput("pairplots")),
         tabPanel("map",plotOutput("cluster_map"))
       )
     )
@@ -157,6 +158,13 @@ server <- function(input, output) {
     dendr <- color_branches(dendr, input$k, col=viridis(input$k))
     plot(dendr, main = paste(input$year,", k = ",input$k, sep = ""))
   })
+  # pair plots
+  output$pairplots <- renderCachedPlot({ 
+    clustered_data() %>%
+      dplyr::select(cl,contains("EFW")) %>%
+      pair_plots()
+  },cacheKeyExpr = c(input$k,input$method,input$year,input$scaled))
 }
+
 # Run the application 
 shinyApp(ui = ui, server = server)
