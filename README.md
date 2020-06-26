@@ -1,6 +1,11 @@
 ## Clusters of Economic Freedom Revisited
 ### Technical appendix
 
+#### Cluster Membership
+See this 
+[table](https://github.com/RickWeber/EFW_clustering/blob/master/cluster_membership_2017.md)
+for cluster membership sorted by population. This table is for 2017, splitting the world into four clusters using normalized values of the Economic Freedom of the World area scores.
+
 #### Quick Start
 After cloning this repository to your local machine, run `script0.R`. That will set up the libraries, define the functions used, and import the data. 
 
