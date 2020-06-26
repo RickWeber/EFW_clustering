@@ -10,9 +10,9 @@ for cluster membership sorted by population. This table is for 2017, splitting t
 After cloning this repository to your local machine, run `script0.R`. That will set up the libraries, define the functions used, and import the data. 
 
 Running `app.R` will generate a page allowing you to see the clustered data for
-all available years in table and map form. Run it after running `script0.R`.
+all available years in table and map form. Run it after running `script0.R`. 
 
-A running version of that app is available online [here](https://rickweber.shinyapps.io/Clusters_of_Economic_Freedom/). Please note that this version has limited availability. If you want to properly dig into this project, you are encouraged to clone this repository and work on your local machine.
+A running version of that app is available online [here](https://rickweber.shinyapps.io/Clusters_of_Economic_Freedom/). Please note that this version has limited availability (25 hours per month). If you want to properly dig into this project, you are encouraged to clone this repository and work on your local machine. `shiny_app/app.R` contains the code used to generate that version of the visualization engine. 
 
 #### Just the data please...
 The file 

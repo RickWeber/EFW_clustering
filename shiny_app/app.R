@@ -8,6 +8,7 @@ library(dendextend)
 library(maps)
 library(shiny)
 library(viridis)
+library(GGally)
 # relevant data
 df <-  read_csv("all_clusters.csv")
 map_coords <- map_data("world") %>%
@@ -63,7 +64,7 @@ ui <- fluidPage(
         tabPanel("cluster summaries",tableOutput("cluster_summary")),
         tabPanel("data",tableOutput("cluster_table")),
         tabPanel("dendrogram",plotOutput("dendrogram")),
-        tabPanel("pair plots",plotOutput("pairplots")),
+        # tabPanel("pair plots\n(runs slow!)",plotOutput("pairplots")),
         tabPanel("map",plotOutput("cluster_map"))
       )
     )
@@ -159,11 +160,16 @@ server <- function(input, output) {
     plot(dendr, main = paste(input$year,", k = ",input$k, sep = ""))
   })
   # pair plots
-  output$pairplots <- renderCachedPlot({ 
-    clustered_data() %>%
-      dplyr::select(cl,contains("EFW")) %>%
-      pair_plots()
-  },cacheKeyExpr = c(input$k,input$method,input$year,input$scaled))
+  # output$pairplots <- renderCachedPlot({ 
+  #   plot <- clustered_data() %>%
+  #     dplyr::select(cl,EFW,EFW1,EFW2,EFW3,EFW4,EFW5) %>%
+  #     ggpairs(.,aes(col = as.factor(cl),alpha = 1/3),
+  #             upper = list(continuous = "density"),
+  #             lower = list(continuous = wrap("points",size = 0.5)),
+  #             diag = list(continuous = "densityDiag",
+  #                         discrete =  "barDiag"), progress = TRUE) +
+  #     theme_bw()
+  # },cacheKeyExpr = c(input$k,input$method,input$year,input$scaled))
 }
 
 # Run the application 
