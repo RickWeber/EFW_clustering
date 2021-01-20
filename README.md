@@ -53,4 +53,4 @@ The underlying Economic Freedom of the World data is not my own. Please visit [t
 The cluster memberships calculated here, as well as the R code used to generate them are licensed under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license. You are free to share and use the data as you see fit, but I ask that you please cite my work.
 
 #### Citation
-This project is the technical appendix to my paper **Clusters of Economic Freedom Revisited** (currently under revision for publication in [The Academy of Economics and Finance Journal](https://www.economics-finance.org/jef-5.php))
+This project is the technical appendix to my paper **Clusters of Economic Freedom Revisited** in Volume 11 of [The Academy of Economics and Finance Journal](https://www.economics-finance.org/jef-5.php).
